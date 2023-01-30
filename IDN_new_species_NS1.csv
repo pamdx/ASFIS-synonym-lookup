@@ -1,0 +1,952 @@
+﻿NS1_ASFIS,NS1_Name,NS1_Scientific name,ASFIS_2022_Ref,JG Notes,ASFIS_2022 match,Catch_quantities_2021,Issue
+FCP,Common carp,Cyprinus carpio,FCP,Exsiting species in NS1 questionnaire,Match,11918.673,FALSE
+FCG,Grass carp(=White amur),Ctenopharyngodon idellus,#N/A,Exsiting species in NS1 questionnaire,No match/missing,584.949,FALSE
+YCA,Beardless barb,Cyclocheilichthys apogon,YCA,Exsiting species in NS1 questionnaire,Match,484.034,FALSE
+YCQ,Cyclocheilichthys armatus,Cyclocheilichthys armatus,YCQ,Exsiting species in NS1 questionnaire,Match,0,FALSE
+HML,Hampala barb,Hampala macrolepidota,HML,Exsiting species in NS1 questionnaire,Match,3120.574,FALSE
+LZF,Signal barb,Labiobarbus festivus,LZF,Exsiting species in NS1 questionnaire,Match,1319.244,FALSE
+FCN,Nilem carp,Osteochilus hasselti,FCN,Exsiting species in NS1 questionnaire,Match,12820.174,FALSE
+RSZ,Silver rasbora,Rasbora argyrotaenia,RSZ,Exsiting species in NS1 questionnaire,Match,11773.446,FALSE
+TWY,Thynnichthys vaillanti,Thynnichthys vaillanti,TWY,Exsiting species in NS1 questionnaire,Match,3169.487,FALSE
+TZD,Semah mahseer,Tor douronensis,TZD,Exsiting species in NS1 questionnaire,Match,1541.858,FALSE
+BBR,Barbodes balleroides,Barbodes balleroides,BBR,Exsiting species in NS1 questionnaire,Match,1163.617,FALSE
+FCH,Hoven's carp,Leptobarbus hoeveni,FCH,Exsiting species in NS1 questionnaire,Match,5252.241,FALSE
+PUI,Spotted barb,Puntius binotatus,PUI,Exsiting species in NS1 questionnaire,Match,4825.526,FALSE
+MCO,Long pectoral-fin minnow,Macrochirichthys macrochirus,MCO,Exsiting species in NS1 questionnaire,Match,37.053,FALSE
+MZP,Mystacoleucus padangensis,Mystacoleucus padangensis,MZP,Exsiting species in NS1 questionnaire,Match,1114.735,FALSE
+WPU,Puntioplites waandersi,Puntioplites waandersi,WPU,Exsiting species in NS1 questionnaire,Match,486.848,FALSE
+PTG,Silver barb,Barbonymus gonionotus,PTG,Exsiting species in NS1 questionnaire,Match,17605.935,FALSE
+BFS,Tinfoil barb,Barbonymus schwanenfeldii,BFS,Exsiting species in NS1 questionnaire,Match,6004.878,FALSE
+FCY,Cyprinids nei,Cyprinidae,FCY,Exsiting species in NS1 questionnaire,Match,819.637,FALSE
+BMW,Clown loach,Chromobotia macracanthus,BMW,Exsiting species in NS1 questionnaire,Match,10.601,FALSE
+TLM,Mozambique tilapia,Oreochromis mossambicus,TLM,Exsiting species in NS1 questionnaire,Match,17699.771,FALSE
+TLN,Nile tilapia,Oreochromis niloticus,TLN,Exsiting species in NS1 questionnaire,Match,49680.046,FALSE
+OHB,Asian bonytongue,Scleropages formosus,OHB,Exsiting species in NS1 questionnaire,Match,0,FALSE
+NCG,Giant featherback,Chitala lopis,NCG,Exsiting species in NS1 questionnaire,Match,3419.674,FALSE
+CAG,Glass catfishes,Kryptopterus spp,CAG,Exsiting species in NS1 questionnaire,Match,19056.066,FALSE
+OKB,Butter catfish,Ompok bimaculatus,OKB,Exsiting species in NS1 questionnaire,Match,8643.124,FALSE
+MYN,Asian redtail catfish,Hemibagrus nemurus,MYN,Exsiting species in NS1 questionnaire,Match,22503.043,FALSE
+BMZ,Mystus nigriceps,Mystus nigriceps,BMZ,Exsiting species in NS1 questionnaire,Match,5271.767,FALSE
+CTO,Torpedo-shaped catfishes nei,Clarias spp,CTO,Exsiting species in NS1 questionnaire,Match,26266.733,FALSE
+PQZ,Pangasius djambal,Pangasius djambal,PQZ,Exsiting species in NS1 questionnaire,Match,23214.961,FALSE
+FSI,Freshwater siluroids nei,Siluroidei,FSI,Exsiting species in NS1 questionnaire,Match,0,FALSE
+MWY,Fire eel,Mastacembelus erythrotaenia,MWY,Exsiting species in NS1 questionnaire,Match,583.319,FALSE
+TXM,Smallscale archerfish,Toxotes microlepis,TXM,Exsiting species in NS1 questionnaire,Match,5.051,FALSE
+RIS,Malayan leaffish,Pristolepis fasciata,RIS,Exsiting species in NS1 questionnaire,Match,457.425,FALSE
+FGB,"Gudgeons, sleepers nei",Eleotridae,FGB,Exsiting species in NS1 questionnaire,Match,0,FALSE
+FPC,Climbing perch,Anabas testudineus,FPC,Exsiting species in NS1 questionnaire,Match,26540.64,FALSE
+FGG,Giant gourami,Osphronemus goramy,FGG,Exsiting species in NS1 questionnaire,Match,3731.564,FALSE
+FGS,Snakeskin gourami,Trichogaster pectoralis,#N/A,Exsiting species in NS1 questionnaire,No match/missing,25161.522,FALSE
+TGH,Three spot gourami,Trichogaster trichopterus,TGH,Exsiting species in NS1 questionnaire,Match,15492.75,FALSE
+FGO,Kissing gourami,Helostoma temminckii,FGO,Exsiting species in NS1 questionnaire,Match,17734.692,FALSE
+FSS,Striped snakehead,Channa striata,FSS,Exsiting species in NS1 questionnaire,Match,44768.868,FALSE
+FIS,Indonesian snakehead,Channa micropeltes,FIS,Exsiting species in NS1 questionnaire,Match,15058.502,FALSE
+FRF,Freshwater fishes nei,Osteichthyes,#N/A,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+ELX,River eels nei,Anguilla spp,ELX,Exsiting species in NS1 questionnaire,Match,3552.712,FALSE
+CHG,Chacunda gizzard shad,Anodontostoma chacunda,CHG,Exsiting species in NS1 questionnaire,Match,2906.905704,FALSE
+CHG,Chacunda gizzard shad,Anodontostoma chacunda,CHG,Exsiting species in NS1 questionnaire,Match,22905.422,FALSE
+TOL,Toli shad,Tenualosa toli,TOL,Exsiting species in NS1 questionnaire,Match,162.73,FALSE
+TOL,Toli shad,Tenualosa toli,TOL,Exsiting species in NS1 questionnaire,Match,340.392,FALSE
+GIP,Barramundi(=Giant seaperch),Lates calcarifer,GIP,Exsiting species in NS1 questionnaire,Match,4225.49,FALSE
+GIP,Barramundi(=Giant seaperch),Lates calcarifer,GIP,Exsiting species in NS1 questionnaire,Match,32160.8217,FALSE
+HAI,Indian halibut,Psettodes erumei,HAI,Exsiting species in NS1 questionnaire,Match,3240.535,FALSE
+HAI,Indian halibut,Psettodes erumei,HAI,Exsiting species in NS1 questionnaire,Match,13089.961,FALSE
+FLX,Flatfishes nei,Pleuronectiformes,FLX,Exsiting species in NS1 questionnaire,Match,739.267,FALSE
+FLX,Flatfishes nei,Pleuronectiformes,FLX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+BUC,Bombay-duck,Harpadon nehereus,BUC,Exsiting species in NS1 questionnaire,Match,1635.285,FALSE
+BUC,Bombay-duck,Harpadon nehereus,BUC,Exsiting species in NS1 questionnaire,Match,8208.243,FALSE
+LIG,Greater lizardfish,Saurida tumbil,LIG,Exsiting species in NS1 questionnaire,Match,222.912,FALSE
+LIG,Greater lizardfish,Saurida tumbil,LIG,Exsiting species in NS1 questionnaire,Match,5700.744,FALSE
+CAX,Sea catfishes nei,Ariidae,CAX,Exsiting species in NS1 questionnaire,Match,13731.80064,FALSE
+CAX,Sea catfishes nei,Ariidae,CAX,Exsiting species in NS1 questionnaire,Match,84995.4778,FALSE
+MUL,Mullets nei,Mugilidae,MUL,Exsiting species in NS1 questionnaire,Match,14906.13996,FALSE
+MUL,Mullets nei,Mugilidae,MUL,Exsiting species in NS1 questionnaire,Match,64346.8429,FALSE
+CJX,Fusiliers nei,Caesionidae,CJX,Exsiting species in NS1 questionnaire,Match,2190.600256,FALSE
+CJX,Fusiliers nei,Caesionidae,CJX,Exsiting species in NS1 questionnaire,Match,27974.23731,FALSE
+EER,Honeycomb grouper,Epinephelus merra,EER,Exsiting species in NS1 questionnaire,Match,103.408,FALSE
+EER,Honeycomb grouper,Epinephelus merra,EER,Exsiting species in NS1 questionnaire,Match,1281.916,FALSE
+EPT,Greasy grouper,Epinephelus tauvina,EPT,Exsiting species in NS1 questionnaire,Match,198.603,FALSE
+EPT,Greasy grouper,Epinephelus tauvina,EPT,Exsiting species in NS1 questionnaire,Match,1073.514947,FALSE
+CVK,Chocolate hind,Cephalopholis boenak,CVK,Exsiting species in NS1 questionnaire,Match,9065.903471,FALSE
+CVK,Chocolate hind,Cephalopholis boenak,CVK,Exsiting species in NS1 questionnaire,Match,6274.32,FALSE
+MPV,Humpback grouper,Cromileptes altivelis,MPV,Exsiting species in NS1 questionnaire,Match,5104.180042,FALSE
+MPV,Humpback grouper,Cromileptes altivelis,MPV,Exsiting species in NS1 questionnaire,Match,2578.429532,FALSE
+EMO,Leopard coralgrouper,Plectropomus leopardus,EMO,Exsiting species in NS1 questionnaire,Match,592.48,FALSE
+EMO,Leopard coralgrouper,Plectropomus leopardus,EMO,Exsiting species in NS1 questionnaire,Match,10862.04741,FALSE
+THO,Terapon perches nei,Terapon spp,THO,Exsiting species in NS1 questionnaire,Match,622.378,FALSE
+THO,Terapon perches nei,Terapon spp,THO,Exsiting species in NS1 questionnaire,Match,2330.282,FALSE
+BIR,Red bigeye,Priacanthus macracanthus,BIR,Exsiting species in NS1 questionnaire,Match,50.46,FALSE
+BIR,Red bigeye,Priacanthus macracanthus,BIR,Exsiting species in NS1 questionnaire,Match,658.7766909,FALSE
+BIG,Bigeyes nei,Priacanthus spp,BIG,Exsiting species in NS1 questionnaire,Match,1235.39,FALSE
+BIG,Bigeyes nei,Priacanthus spp,BIG,Exsiting species in NS1 questionnaire,Match,32621.11535,FALSE
+ILS,Silver sillago,Sillago sihama,ILS,Exsiting species in NS1 questionnaire,Match,739.7113363,FALSE
+ILS,Silver sillago,Sillago sihama,ILS,Exsiting species in NS1 questionnaire,Match,584.62,FALSE
+SNA,Snappers nei,Lutjanus spp,SNA,Exsiting species in NS1 questionnaire,Match,28654.82823,FALSE
+SNA,Snappers nei,Lutjanus spp,SNA,Exsiting species in NS1 questionnaire,Match,194902.7292,FALSE
+LWX,Jobfishes nei,Pristipomoides spp,LWX,Exsiting species in NS1 questionnaire,Match,1309.26102,FALSE
+LWX,Jobfishes nei,Pristipomoides spp,LWX,Exsiting species in NS1 questionnaire,Match,2388.00014,FALSE
+THB,Threadfin breams nei,Nemipterus spp,THB,Exsiting species in NS1 questionnaire,Match,8144.257386,FALSE
+THB,Threadfin breams nei,Nemipterus spp,THB,Exsiting species in NS1 questionnaire,Match,49157.45787,FALSE
+PON,Ponyfishes(=Slipmouths) nei,Leiognathidae,PON,Exsiting species in NS1 questionnaire,Match,14212.27083,FALSE
+PON,Ponyfishes(=Slipmouths) nei,Leiognathidae,PON,Exsiting species in NS1 questionnaire,Match,61612.42834,FALSE
+PBX,"Sweetlips, rubberlips nei",Plectorhinchus spp,PBX,Exsiting species in NS1 questionnaire,Match,5927.680085,FALSE
+PBX,"Sweetlips, rubberlips nei",Plectorhinchus spp,PBX,Exsiting species in NS1 questionnaire,Match,30894.37549,FALSE
+GRX,"Grunts, sweetlips nei",Haemulidae (=Pomadasyidae),GRX,Exsiting species in NS1 questionnaire,Match,4269.369835,FALSE
+GRX,"Grunts, sweetlips nei",Haemulidae (=Pomadasyidae),GRX,Exsiting species in NS1 questionnaire,Match,11639.16306,FALSE
+CDX,"Croakers, drums nei",Sciaenidae,CDX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+CDX,"Croakers, drums nei",Sciaenidae,CDX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+EMP,Emperors(=Scavengers) nei,Lethrinidae,EMP,Exsiting species in NS1 questionnaire,Match,2510.084886,FALSE
+EMP,Emperors(=Scavengers) nei,Lethrinidae,EMP,Exsiting species in NS1 questionnaire,Match,69810.82702,FALSE
+GOX,Goatfishes,Upeneus spp,GOX,Exsiting species in NS1 questionnaire,Match,3900.128,FALSE
+GOX,Goatfishes,Upeneus spp,GOX,Exsiting species in NS1 questionnaire,Match,41280.38526,FALSE
+HVM,Humphead wrasse,Cheilinus undulatus,HVM,Exsiting species in NS1 questionnaire,Match,0,FALSE
+HVM,Humphead wrasse,Cheilinus undulatus,HVM,Exsiting species in NS1 questionnaire,Match,204.7603024,FALSE
+FOT,Fourfinger threadfin,Eleutheronema tetradactylum,FOT,Exsiting species in NS1 questionnaire,Match,8944.898094,FALSE
+FOT,Fourfinger threadfin,Eleutheronema tetradactylum,FOT,Exsiting species in NS1 questionnaire,Match,40584.7519,FALSE
+THF,"Threadfins, tasselfishes nei",Polynemidae,THF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+THF,"Threadfins, tasselfishes nei",Polynemidae,THF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SPI,Spinefeet(=Rabbitfishes) nei,Siganus spp,SPI,Exsiting species in NS1 questionnaire,Match,7197.319654,FALSE
+SPI,Spinefeet(=Rabbitfishes) nei,Siganus spp,SPI,Exsiting species in NS1 questionnaire,Match,75099.54231,FALSE
+CUT,"Hairtails, scabbardfishes nei",Trichiuridae,CUT,Exsiting species in NS1 questionnaire,Match,32531.20131,FALSE
+CUT,"Hairtails, scabbardfishes nei",Trichiuridae,CUT,Exsiting species in NS1 questionnaire,Match,28258.19073,FALSE
+AGS,Spotted sardinella,Amblygaster sirm,AGS,Exsiting species in NS1 questionnaire,Match,7216.625287,FALSE
+AGS,Spotted sardinella,Amblygaster sirm,AGS,Exsiting species in NS1 questionnaire,Match,50770.70914,FALSE
+SAG,Goldstripe sardinella,Sardinella gibbosa,SAG,Exsiting species in NS1 questionnaire,Match,28675.40835,FALSE
+SAG,Goldstripe sardinella,Sardinella gibbosa,SAG,Exsiting species in NS1 questionnaire,Match,138680.3552,FALSE
+SAM,Bali sardinella,Sardinella lemuru,SAM,Exsiting species in NS1 questionnaire,Match,56907.32017,FALSE
+SAM,Bali sardinella,Sardinella lemuru,SAM,Exsiting species in NS1 questionnaire,Match,25768.75935,FALSE
+RAS,Rainbow sardine,Dussumieria acuta,RAS,Exsiting species in NS1 questionnaire,Match,4912.815904,FALSE
+RAS,Rainbow sardine,Dussumieria acuta,RAS,Exsiting species in NS1 questionnaire,Match,11470.462,FALSE
+STO,Stolephorus anchovies nei,Stolephorus spp,STO,Exsiting species in NS1 questionnaire,Match,15862.05922,FALSE
+STO,Stolephorus anchovies nei,Stolephorus spp,STO,Exsiting species in NS1 questionnaire,Match,51165.61018,FALSE
+DOS,Wolf-herrings nei,Chirocentrus spp,DOS,Exsiting species in NS1 questionnaire,Match,4799.145999,FALSE
+DOS,Wolf-herrings nei,Chirocentrus spp,DOS,Exsiting species in NS1 questionnaire,Match,12369.689,FALSE
+CLU,Clupeoids nei,Clupeoidei,DCX,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+CLU,Clupeoids nei,Clupeoidei,DCX,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+BIP,Striped bonito,Sarda orientalis,BIP,Exsiting species in NS1 questionnaire,Match,898.517,FALSE
+BIP,Striped bonito,Sarda orientalis,BIP,Exsiting species in NS1 questionnaire,Match,6.692,FALSE
+WAH,Wahoo,Acanthocybium solandri,WAH,Exsiting species in NS1 questionnaire,Match,274.5338262,FALSE
+DOT,Dogtooth tuna,Gymnosarda unicolor,DOT,Exsiting species in NS1 questionnaire,Match,172.907,FALSE
+COM,Narrow-barred Spanish mackerel,Scomberomorus commerson,COM,Exsiting species in NS1 questionnaire,Match,27718.43385,FALSE
+COM,Narrow-barred Spanish mackerel,Scomberomorus commerson,COM,Exsiting species in NS1 questionnaire,Match,147675.8966,FALSE
+GUT,Indo-Pacific king mackerel,Scomberomorus guttatus,GUT,Exsiting species in NS1 questionnaire,Match,6906.011701,FALSE
+GUT,Indo-Pacific king mackerel,Scomberomorus guttatus,GUT,Exsiting species in NS1 questionnaire,Match,19182.82606,FALSE
+FRI,Frigate tuna,Auxis thazard,FRI,Exsiting species in NS1 questionnaire,Match,109319.4136,FALSE
+BLT,Bullet tuna,Auxis rochei,BLT,Exsiting species in NS1 questionnaire,Match,6356.926829,FALSE
+FRZ,Frigate and bullet tunas,"Auxis thazard, A. rochei",FRZ,Exsiting species in NS1 questionnaire,Match,93933.11124,FALSE
+KAW,Kawakawa,Euthynnus affinis,KAW,Exsiting species in NS1 questionnaire,Match,31752.32046,FALSE
+KAW,Kawakawa,Euthynnus affinis,KAW,Exsiting species in NS1 questionnaire,Match,101646.3186,FALSE
+SKJ,Skipjack tuna,Katsuwonus pelamis,SKJ,Exsiting species in NS1 questionnaire,Match,129761.0822,FALSE
+SKJ,Skipjack tuna,Katsuwonus pelamis,SKJ,Exsiting species in NS1 questionnaire,Match,302222.968,FALSE
+LOT,Longtail tuna,Thunnus tonggol,LOT,Exsiting species in NS1 questionnaire,Match,32113.32695,FALSE
+LOT,Longtail tuna,Thunnus tonggol,LOT,Exsiting species in NS1 questionnaire,Match,181680.0696,FALSE
+ALB,Albacore,Thunnus alalunga,ALB,Exsiting species in NS1 questionnaire,Match,9569.965,FALSE
+SBF,Southern bluefin tuna,Thunnus maccoyii,SBF,Exsiting species in NS1 questionnaire,Match,1122.7151,FALSE
+YFT,Yellowfin tuna,Thunnus albacares,YFT,Exsiting species in NS1 questionnaire,Match,57118.61684,FALSE
+YFT,Yellowfin tuna,Thunnus albacares,YFT,Exsiting species in NS1 questionnaire,Match,234746.7846,FALSE
+BET,Bigeye tuna,Thunnus obesus,BET,Exsiting species in NS1 questionnaire,Match,14170.18041,FALSE
+BET,Bigeye tuna,Thunnus obesus,BET,Exsiting species in NS1 questionnaire,Match,35368.29661,FALSE
+SFA,Indo-Pacific sailfish,Istiophorus platypterus,SFA,Exsiting species in NS1 questionnaire,Match,5665.262,FALSE
+SFA,Indo-Pacific sailfish,Istiophorus platypterus,SFA,Exsiting species in NS1 questionnaire,Match,11972.31826,FALSE
+BUM,Blue marlin,Makaira nigricans,BUM,Exsiting species in NS1 questionnaire,Match,2462.106306,FALSE
+BUM,Blue marlin,Makaira nigricans,BUM,Exsiting species in NS1 questionnaire,Match,2782.925585,FALSE
+BLM,Black marlin,Makaira indica,#N/A,Exsiting species in NS1 questionnaire,No match/missing,4326.390681,FALSE
+BLM,Black marlin,Makaira indica,#N/A,Exsiting species in NS1 questionnaire,No match/missing,5376.023999,FALSE
+MLS,Striped marlin,Tetrapturus audax,#N/A,Exsiting species in NS1 questionnaire,No match/missing,563.152,FALSE
+MLS,Striped marlin,Tetrapturus audax,#N/A,Exsiting species in NS1 questionnaire,No match/missing,2634.263331,FALSE
+SSP,Shortbill spearfish,Tetrapturus angustirostris,SSP,Exsiting species in NS1 questionnaire,Match,3192.876,FALSE
+BIL,"Marlins,sailfishes,etc. nei",Istiophoridae,BIL,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SWO,Swordfish,Xiphias gladius,SWO,Exsiting species in NS1 questionnaire,Match,2474.111,FALSE
+SWO,Swordfish,Xiphias gladius,SWO,Exsiting species in NS1 questionnaire,Match,622.241,FALSE
+TUX,Tuna-like fishes nei,Scombroidei,TUX,Exsiting species in NS1 questionnaire,Match,508.038,FALSE
+TUX,Tuna-like fishes nei,Scombroidei,TUX,Exsiting species in NS1 questionnaire,Match,837.621,FALSE
+NED,Needlefishes nei,Tylosurus spp,NED,Exsiting species in NS1 questionnaire,Match,33335.21967,FALSE
+NED,Needlefishes nei,Tylosurus spp,NED,Exsiting species in NS1 questionnaire,Match,13223.24925,FALSE
+JKX,Halfbeaks nei,Hemiramphidae,JKX,Exsiting species in NS1 questionnaire,Match,392.2494464,FALSE
+JKX,Halfbeaks nei,Hemiramphidae,JKX,Exsiting species in NS1 questionnaire,Match,8048.227401,FALSE
+FLY,Flyingfishes nei,Exocoetidae,FLY,Exsiting species in NS1 questionnaire,Match,0,FALSE
+FLY,Flyingfishes nei,Exocoetidae,FLY,Exsiting species in NS1 questionnaire,Match,0,FALSE
+TRF,False trevally,Lactarius lactarius,TRF,Exsiting species in NS1 questionnaire,Match,17.629,FALSE
+TRF,False trevally,Lactarius lactarius,TRF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SDX,Scads nei,Decapterus spp,SDX,Exsiting species in NS1 questionnaire,Match,90216.97837,FALSE
+SDX,Scads nei,Decapterus spp,SDX,Exsiting species in NS1 questionnaire,Match,436250.5777,FALSE
+TRE,"Jacks, crevalles nei",Caranx spp,TRE,Exsiting species in NS1 questionnaire,Match,37519.71826,FALSE
+TRE,"Jacks, crevalles nei",Caranx spp,TRE,Exsiting species in NS1 questionnaire,Match,131700.8323,FALSE
+POB,Black pomfret,Parastromateus niger,POB,Exsiting species in NS1 questionnaire,Match,10490.46725,FALSE
+POB,Black pomfret,Parastromateus niger,POB,Exsiting species in NS1 questionnaire,Match,51271.7981,FALSE
+RRU,Rainbow runner,Elagatis bipinnulata,RRU,Exsiting species in NS1 questionnaire,Match,2053.715447,FALSE
+RRU,Rainbow runner,Elagatis bipinnulata,RRU,Exsiting species in NS1 questionnaire,Match,8431.9839,FALSE
+HAS,Torpedo scad,Megalaspis cordyla,HAS,Exsiting species in NS1 questionnaire,Match,12603.69488,FALSE
+HAS,Torpedo scad,Megalaspis cordyla,HAS,Exsiting species in NS1 questionnaire,Match,13775.28417,FALSE
+QUE,Queenfishes,Scomberoides spp,QUE,Exsiting species in NS1 questionnaire,Match,5863.221,FALSE
+QUE,Queenfishes,Scomberoides spp,QUE,Exsiting species in NS1 questionnaire,Match,26298.315,FALSE
+BIS,Bigeye scad,Selar crumenophthalmus,BIS,Exsiting species in NS1 questionnaire,Match,9626.738299,FALSE
+BIS,Bigeye scad,Selar crumenophthalmus,BIS,Exsiting species in NS1 questionnaire,Match,49121.92899,FALSE
+TRY,Yellowstripe scad,Selaroides leptolepis,TRY,Exsiting species in NS1 questionnaire,Match,31680.72096,FALSE
+TRY,Yellowstripe scad,Selaroides leptolepis,TRY,Exsiting species in NS1 questionnaire,Match,103670.5697,FALSE
+DOL,Common dolphinfish,Coryphaena hippurus,DOL,Exsiting species in NS1 questionnaire,Match,5593.74609,FALSE
+DOL,Common dolphinfish,Coryphaena hippurus,DOL,Exsiting species in NS1 questionnaire,Match,12838.4936,FALSE
+MAA,Blue mackerel,Scomber australasicus,MAA,Exsiting species in NS1 questionnaire,Match,2775.02,FALSE
+MAA,Blue mackerel,Scomber australasicus,MAA,Exsiting species in NS1 questionnaire,Match,243.3,FALSE
+RAB,Short mackerel,Rastrelliger brachysoma,RAB,Exsiting species in NS1 questionnaire,Match,10606.69948,FALSE
+RAB,Short mackerel,Rastrelliger brachysoma,RAB,Exsiting species in NS1 questionnaire,Match,17541.87,FALSE
+RAG,Indian mackerel,Rastrelliger kanagurta,RAG,Exsiting species in NS1 questionnaire,Match,16150.22675,FALSE
+RAG,Indian mackerel,Rastrelliger kanagurta,RAG,Exsiting species in NS1 questionnaire,Match,46139.583,FALSE
+SIP,Silver pomfret,Pampus argenteus,SIP,Exsiting species in NS1 questionnaire,Match,14199.64881,FALSE
+SIP,Silver pomfret,Pampus argenteus,SIP,Exsiting species in NS1 questionnaire,Match,43500.24767,FALSE
+BAC,Pickhandle barracuda,Sphyraena jello,BAC,Exsiting species in NS1 questionnaire,Match,1.135539386,FALSE
+BAC,Pickhandle barracuda,Sphyraena jello,BAC,Exsiting species in NS1 questionnaire,Match,26.30876657,FALSE
+GBA,Great barracuda,Sphyraena barracuda,GBA,Exsiting species in NS1 questionnaire,Match,7534.261799,FALSE
+GBA,Great barracuda,Sphyraena barracuda,GBA,Exsiting species in NS1 questionnaire,Match,11913.47333,FALSE
+THR,Thresher sharks nei,Alopias spp,THR,Exsiting species in NS1 questionnaire,Match,1231.357,FALSE
+THR,Thresher sharks nei,Alopias spp,THR,Exsiting species in NS1 questionnaire,Match,1102.147,FALSE
+MSK,"Mackerel sharks,porbeagles nei",Lamnidae,MSK,Exsiting species in NS1 questionnaire,Match,0,FALSE
+MSK,"Mackerel sharks,porbeagles nei",Lamnidae,MSK,Exsiting species in NS1 questionnaire,Match,0,FALSE
+BSH,Blue shark,Prionace glauca,BSH,Exsiting species in NS1 questionnaire,Match,1323.372,FALSE
+RSK,Requiem sharks nei,Carcharhinidae,RSK,Exsiting species in NS1 questionnaire,Match,677.4,FALSE
+RSK,Requiem sharks nei,Carcharhinidae,RSK,Exsiting species in NS1 questionnaire,Match,7474.161,FALSE
+SPY,"Hammerhead sharks, etc. nei",Sphyrnidae,SPY,Exsiting species in NS1 questionnaire,Match,30.769,FALSE
+SPY,"Hammerhead sharks, etc. nei",Sphyrnidae,SPY,Exsiting species in NS1 questionnaire,Match,0,FALSE
+DGX,Dogfish sharks nei,Squalidae,DGX,Exsiting species in NS1 questionnaire,Match,36.207,FALSE
+RCA,Whitespotted wedgefish,Rhynchobatus australiae,RCA,Exsiting species in NS1 questionnaire,Match,0,FALSE
+RCA,Whitespotted wedgefish,Rhynchobatus australiae,RCA,Exsiting species in NS1 questionnaire,Match,0,FALSE
+GTF,"Guitarfishes, etc. nei",Rhinobatidae,GTF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+GTF,"Guitarfishes, etc. nei",Rhinobatidae,GTF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SAW,Sawfishes,Pristidae,SAW,Exsiting species in NS1 questionnaire,Match,24.49273646,FALSE
+SAW,Sawfishes,Pristidae,SAW,Exsiting species in NS1 questionnaire,Match,618.004,FALSE
+STT,"Stingrays, butterfly rays nei",Dasyatidae,STT,Exsiting species in NS1 questionnaire,Match,0,FALSE
+STT,"Stingrays, butterfly rays nei",Dasyatidae,STT,Exsiting species in NS1 questionnaire,Match,105.7,FALSE
+EAG,Eagle rays nei,Myliobatidae,EAG,Exsiting species in NS1 questionnaire,Match,4547.937283,FALSE
+EAG,Eagle rays nei,Myliobatidae,EAG,Exsiting species in NS1 questionnaire,Match,5217.005,FALSE
+MAN,"Mantas, devil rays nei",Mobulidae,MAN,Exsiting species in NS1 questionnaire,Match,21.297,FALSE
+MAN,"Mantas, devil rays nei",Mobulidae,MAN,Exsiting species in NS1 questionnaire,Match,49.078,FALSE
+SRX,"Rays, stingrays, mantas nei",Rajiformes,SRX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SRX,"Rays, stingrays, mantas nei",Rajiformes,SRX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SKX,"Sharks, rays, skates, etc. nei",Elasmobranchii,SKX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SKX,"Sharks, rays, skates, etc. nei",Elasmobranchii,SKX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+MZZ,Marine fishes nei,Osteichthyes,#N/A,Exsiting species in NS1 questionnaire,No match/missing,1843.71,FALSE
+MZZ,Marine fishes nei,Osteichthyes,#N/A,Exsiting species in NS1 questionnaire,No match/missing,66860.38639,FALSE
+PRF,Giant river prawn,Macrobrachium rosenbergii,PRF,Exsiting species in NS1 questionnaire,Match,11218.578,FALSE
+PPZ,"Freshwater prawns, shrimps nei",Palaemonidae,PPZ,Exsiting species in NS1 questionnaire,Match,3808.131,FALSE
+FCX,Freshwater crustaceans nei,Crustacea,FCX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SCD,Blue swimming crab,Portunus pelagicus,SCD,Exsiting species in NS1 questionnaire,Match,12083.095,FALSE
+SCD,Blue swimming crab,Portunus pelagicus,SCD,Exsiting species in NS1 questionnaire,Match,87426.186,FALSE
+MUD,Indo-Pacific swamp crab,Scylla serrata,MUD,Exsiting species in NS1 questionnaire,Match,2348.102,FALSE
+MUD,Indo-Pacific swamp crab,Scylla serrata,MUD,Exsiting species in NS1 questionnaire,Match,4127.934,FALSE
+SLV,Tropical spiny lobsters nei,Panulirus spp,SLV,Exsiting species in NS1 questionnaire,Match,2997.786,FALSE
+SLV,Tropical spiny lobsters nei,Panulirus spp,SLV,Exsiting species in NS1 questionnaire,Match,3570.664052,FALSE
+PBA,Banana prawn,Penaeus merguiensis,PBA,Exsiting species in NS1 questionnaire,Match,10610.496,FALSE
+PBA,Banana prawn,Penaeus merguiensis,PBA,Exsiting species in NS1 questionnaire,Match,17345.017,FALSE
+GIT,Giant tiger prawn,Penaeus monodon,GIT,Exsiting species in NS1 questionnaire,Match,2108.845,FALSE
+GIT,Giant tiger prawn,Penaeus monodon,GIT,Exsiting species in NS1 questionnaire,Match,13041.58854,FALSE
+MET,Metapenaeus shrimps nei,Metapenaeus spp,MET,Exsiting species in NS1 questionnaire,Match,16849.02413,FALSE
+MET,Metapenaeus shrimps nei,Metapenaeus spp,MET,Exsiting species in NS1 questionnaire,Match,90548.88347,FALSE
+DCP,Natantian decapods nei,Natantia,DCP,Exsiting species in NS1 questionnaire,Match,1156.317,FALSE
+DCP,Natantian decapods nei,Natantia,DCP,Exsiting species in NS1 questionnaire,Match,0,FALSE
+DCP,Natantian decapods nei,Natantia,DCP,Exsiting species in NS1 questionnaire,Match,0,FALSE
+CRU,Marine crustaceans nei,Crustacea,FCX,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+CRU,Marine crustaceans nei,Crustacea,FCX,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+MOF,Freshwater molluscs nei,Mollusca,MOF,Exsiting species in NS1 questionnaire,Match,0,FALSE
+RQN,Commercial top,Trochus niloticus,RQN,Exsiting species in NS1 questionnaire,Match,0,FALSE
+RQN,Commercial top,Trochus niloticus,RQN,Exsiting species in NS1 questionnaire,Match,41.607,FALSE
+OYC,Cupped oysters nei,Crassostrea spp,OYC,Exsiting species in NS1 questionnaire,Match,265.33,FALSE
+OYC,Cupped oysters nei,Crassostrea spp,OYC,Exsiting species in NS1 questionnaire,Match,600.318,FALSE
+MSV,Green mussel,Perna viridis,MSV,Exsiting species in NS1 questionnaire,Match,95.405,FALSE
+MSV,Green mussel,Perna viridis,MSV,Exsiting species in NS1 questionnaire,Match,1640.392,FALSE
+SCX,Scallops nei,Pectinidae,SCX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+SCX,Scallops nei,Pectinidae,SCX,Exsiting species in NS1 questionnaire,Match,0,FALSE
+BLC,Blood cockle,Anadara granosa,#N/A,Exsiting species in NS1 questionnaire,No match/missing,37928.659,FALSE
+BLC,Blood cockle,Anadara granosa,#N/A,Exsiting species in NS1 questionnaire,No match/missing,43717.82563,FALSE
+HCX,Hard clams nei,Meretrix spp,HCX,Exsiting species in NS1 questionnaire,Match,253.283,FALSE
+HCX,Hard clams nei,Meretrix spp,HCX,Exsiting species in NS1 questionnaire,Match,8.55,FALSE
+CLX,"Clams, etc. nei",Bivalvia,CLX,Exsiting species in NS1 questionnaire,Match,862.267,FALSE
+CTL,"Cuttlefish, bobtail squids nei","Sepiidae, Sepiolidae",CTL,Exsiting species in NS1 questionnaire,Match,3444.969588,FALSE
+CTL,"Cuttlefish, bobtail squids nei","Sepiidae, Sepiolidae",CTL,Exsiting species in NS1 questionnaire,Match,22120.4525,FALSE
+SQC,Common squids nei,Loligo spp,SQC,Exsiting species in NS1 questionnaire,Match,25060.34546,FALSE
+SQC,Common squids nei,Loligo spp,SQC,Exsiting species in NS1 questionnaire,Match,179095.9135,FALSE
+OCT,"Octopuses, etc. nei",Octopodidae,OCT,Exsiting species in NS1 questionnaire,Match,8670.439755,FALSE
+OCT,"Octopuses, etc. nei",Octopodidae,OCT,Exsiting species in NS1 questionnaire,Match,10427.44664,FALSE
+MOL,Marine molluscs nei,Mollusca,MOF,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+MOL,Marine molluscs nei,Mollusca,MOF,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+FRG,Frogs,Rana spp,FRG,Exsiting species in NS1 questionnaire,Match,1363.232,FALSE
+TUL,River and lake turtles nei,Testudinata,TUL,Exsiting species in NS1 questionnaire,Match,1.77,FALSE
+TTX,Marine turtles nei,Testudinata,TUL,Exsiting species in NS1 questionnaire,No match/missing,0,FALSE
+TTX,Marine turtles nei,Testudinata,TUL,Exsiting species in NS1 questionnaire,No match/missing,3.5,FALSE
+CUX,Sea cucumbers nei,Holothuroidea,CUX,Exsiting species in NS1 questionnaire,Match,237.8985501,FALSE
+CUX,Sea cucumbers nei,Holothuroidea,CUX,Exsiting species in NS1 questionnaire,Match,3599.576063,FALSE
+JEL,Jellyfishes nei,Rhopilema spp,JEL,Exsiting species in NS1 questionnaire,Match,2980.165,FALSE
+JEL,Jellyfishes nei,Rhopilema spp,JEL,Exsiting species in NS1 questionnaire,Match,7478.929,FALSE
+INV,Aquatic invertebrates nei,Invertebrata,INV,Exsiting species in NS1 questionnaire,Match,0,FALSE
+INV,Aquatic invertebrates nei,Invertebrata,INV,Exsiting species in NS1 questionnaire,Match,0,FALSE
+INV,Aquatic invertebrates nei,Invertebrata,INV,Exsiting species in NS1 questionnaire,Match,0,FALSE
+AAL,,Anguilla marmorata,AAL,New species added in 2022 NS1,Match,0.06,FALSE
+AGN,,Squatina squatina,AGN,New species added in 2022 NS1,Match,10.761,FALSE
+AMZ,,Gymnothorax undulatus,AMZ,New species added in 2022 NS1,Match,1.02,FALSE
+AXD,,Aplocheilus panchax,AXD,New species added in 2022 NS1,Match,4.305,FALSE
+BRN,,Barbichthys laevis,#N/A,New species added in 2022 NS1,No match/missing,393.075,TRUE
+CEW,,Elops hawaiensis,CEW,New species added in 2022 NS1,Match,113.175,FALSE
+CJN,,Cookeolus japonicus,CJN,New species added in 2022 NS1,Match,0.669,FALSE
+CLZ,,Clarias gariepinus,CLZ,New species added in 2022 NS1,Match,1.137,FALSE
+CRP,,Cherax quadricarinatus,CRP,New species added in 2022 NS1,Match,651.129,FALSE
+CSM,,Colossoma macropomum,CSM,New species added in 2022 NS1,Match,846.331,FALSE
+CUL,,Uroconger lepturus,CUL,New species added in 2022 NS1,Match,0.351,FALSE
+DDA,,Abudefduf sordidus,DDA,New species added in 2022 NS1,Match,411.81,FALSE
+DMA,,Abudefduf sexfasciatus,DMA,New species added in 2022 NS1,Match,6.401,FALSE
+DMQ,,Bagarius yarrelli,DMQ,New species added in 2022 NS1,Match,4.041,FALSE
+EFY,,Epinephelus amblycephalus,EFY,New species added in 2022 NS1,Match,15.6,FALSE
+ESU,,Setipinna tenuifilis,ESU,New species added in 2022 NS1,Match,625.901,FALSE
+ESY,,Setipinna taty,ESY,New species added in 2022 NS1,Match,28.332,FALSE
+FLT,,Monopterus albus,FLT,New species added in 2022 NS1,Match,2149.99,FALSE
+FOT,,Eleutheronema tetradactylum,FOT,New species added in 2022 NS1,Match,582.975,FALSE
+FSN,,Channa pleurophthalma,#N/A,New species added in 2022 NS1,No match/missing,756.046,TRUE
+GBM,,Oxyeleotris marmorata,GBM,New species added in 2022 NS1,Match,3848.758,FALSE
+GIP,,Lates calcarifer,GIP,New species added in 2022 NS1,Match,776.476,FALSE
+GOM,,Trichogaster lalius,#N/A,New species added in 2022 NS1,No match/missing,13.523,TRUE
+HCA,,Meretrix meretrix,HCA,New species added in 2022 NS1,Match,2,FALSE
+HKD,,Herklotsichthys dispilonotus,#N/A,New species added in 2022 NS1,No match/missing,439.87,TRUE
+IEW,,Plectorhinchus gibbosus,IEW,New species added in 2022 NS1,Match,454.5,FALSE
+IGR,,Siganus corallinus,IGR,New species added in 2022 NS1,Match,4.523,FALSE
+ILS,,Sillago sihama,ILS,New species added in 2022 NS1,Match,3.01,FALSE
+IYL,,Sicyopterus lagocephalus,IYL,New species added in 2022 NS1,Match,1439.837,FALSE
+KPM,,Carpilius maculatus,KPM,New species added in 2022 NS1,Match,44.738,FALSE
+LAG,,Lampris guttatus,LAG,New species added in 2022 NS1,Match,3.583,FALSE
+LUJ,,Lutjanus vitta,LUJ,New species added in 2022 NS1,Match,7.04,FALSE
+LZI,,Chelon subviridis,#N/A,New species added in 2022 NS1,No match/missing,2526.444,TRUE
+MCB,,Congresox talabon,MCB,New species added in 2022 NS1,Match,43.776,FALSE
+MIL,,Chanos chanos,MIL,New species added in 2022 NS1,Match,566.005,FALSE
+MJZ,,Mystacoleucus marginatus,MJZ,New species added in 2022 NS1,Match,261.32,FALSE
+MPB,,Metapenaeus brevicornis,MPB,New species added in 2022 NS1,Match,14.1,FALSE
+MPD,,Metapenaeus dobsoni,MPD,New species added in 2022 NS1,Match,1302.071,FALSE
+MPE,,Metapenaeus ensis,MPE,New species added in 2022 NS1,Match,84.961,FALSE
+MQE,,Metapenaeus eboracensis,MQE,New species added in 2022 NS1,Match,217.424,FALSE
+MSS,,Strophidon sathete,MSS,New species added in 2022 NS1,Match,1283.454,FALSE
+MUD,,Scylla serrata,MUD,New species added in 2022 NS1,Match,916.572,FALSE
+MUF,,Mugil cephalus,MUF,New species added in 2022 NS1,Match,1463.348,FALSE
+MZZ,,Ikan Lainnya,#N/A,New species added in 2022 NS1,No match/missing,2024.241,TRUE
+,,Aetomylaeus nichofii,#N/A,New species added in 2022 NS1,No match/missing,2.361,TRUE
+,,Amphidromus javanicus,#N/A,New species added in 2022 NS1,No match/missing,137.391,TRUE
+,,Amphilophus labiatus,#N/A,New species added in 2022 NS1,No match/missing,365.632,TRUE
+,,Amphilophus trimaculatus,#N/A,New species added in 2022 NS1,No match/missing,56.54,TRUE
+,,Barbodes fasciolatus,#N/A,New species added in 2022 NS1,No match/missing,3.893,TRUE
+,,Caridina cantonensis,#N/A,New species added in 2022 NS1,No match/missing,0.279,TRUE
+,,Enteromius callipterus,#N/A,New species added in 2022 NS1,No match/missing,233.3,TRUE
+,,Esomus metallicus,#N/A,New species added in 2022 NS1,No match/missing,1110.374,TRUE
+,,Hemichromis elongatus,#N/A,New species added in 2022 NS1,No match/missing,2.2,TRUE
+,,Lebistes reticulatus,#N/A,New species added in 2022 NS1,No match/missing,4.048,TRUE
+,,Liopropoma randalli,#N/A,New species added in 2022 NS1,No match/missing,12.497,TRUE
+,,Megokris granulosus,#N/A,New species added in 2022 NS1,No match/missing,77.588,TRUE
+,,Mesopodopsis orientalis,#N/A,New species added in 2022 NS1,No match/missing,13.424,TRUE
+,,Neolissochilus thienemanni,#N/A,New species added in 2022 NS1,No match/missing,16.415,TRUE
+,,Pila globosa,#N/A,New species added in 2022 NS1,No match/missing,2.674,TRUE
+,,Plicofollis dussumieri,#N/A,New species added in 2022 NS1,No match/missing,775.26,TRUE
+,,Poropuntius teworeus,#N/A,New species added in 2022 NS1,No match/missing,4.922,TRUE
+,,Rasbora agilis,#N/A,New species added in 2022 NS1,No match/missing,54.302,TRUE
+,,Rasbora axelrodi,#N/A,New species added in 2022 NS1,No match/missing,373.98,TRUE
+,,Scylaroies squamosus,#N/A,New species added in 2022 NS1,No match/missing,6.495,TRUE
+NDK,,Nibea soldado,NDK,New species added in 2022 NS1,Match,660.842,FALSE
+OTI,,Protonibea diacanthus,OTI,New species added in 2022 NS1,Match,0.515,FALSE
+PBA,,Penaeus merguiensis,PBA,New species added in 2022 NS1,Match,154.434,FALSE
+PBX,,Plectorhinchus albovittatus,#N/A,New species added in 2022 NS1,No match/missing,13.636,TRUE
+PFL,,Poecilia reticulata,PFL,New species added in 2022 NS1,Match,52.949,FALSE
+PGZ,,Pangasius polyuranodon,#N/A,New species added in 2022 NS1,No match/missing,45.647,TRUE
+PNJ,,Penaeus marginatus,PNJ,New species added in 2022 NS1,Match,66.886,FALSE
+PNV,,Penaeus vannamei,PNV,New species added in 2022 NS1,Match,69.264,FALSE
+PUN,,Plotosus canius,PUN,New species added in 2022 NS1,Match,1690.221,FALSE
+PZI,,Parachela oxygastroides,PZI,New species added in 2022 NS1,Match,154.063,FALSE
+QEX,,Potamotrygon menchacai,#N/A,New species added in 2022 NS1,No match/missing,19.474,TRUE
+QSQ,,Polydactylus microstomus,QSQ,New species added in 2022 NS1,Match,2.33,FALSE
+RES,,Lutjanus argentimaculatus,RES,New species added in 2022 NS1,Match,7.089,FALSE
+RRZ,,Rasbora tawarensis,RRZ,New species added in 2022 NS1,Match,64.054,FALSE
+SBI,,Belodontichthys dinema,SBI,New species added in 2022 NS1,Match,4.807,FALSE
+SJE,,Symphorus nematophorus,SJE,New species added in 2022 NS1,Match,7.79,FALSE
+SNU,,Lutjanus russellii,#N/A,New species added in 2022 NS1,No match/missing,684,TRUE
+SPS,,Drepane punctata,SPS,New species added in 2022 NS1,Match,69.847,FALSE
+TFG,,Scatophagus argus,TFG,New species added in 2022 NS1,Match,353.35,FALSE
+TOL,,Hilsa toli,#N/A,New species added in 2022 NS1,No match/missing,8.731,TRUE
+TXJ,,Toxotes jaculatrix,TXJ,New species added in 2022 NS1,Match,0.6,FALSE
+TYT,,Thynnichthys thynnoides,TYT,New species added in 2022 NS1,Match,1974.827,FALSE
+VMH,,Valamugil seheli,VMH,New species added in 2022 NS1,Match,1544.694,FALSE
+YLW,,Scylla olivacea,YLW,New species added in 2022 NS1,Match,897.558,FALSE
+AGN,,Squatina squatina,AGN,New species added in 2022 NS1,Match,0.225,FALSE
+AJS,,Abalistes filamentosus,#N/A,New species added in 2022 NS1,No match/missing,1442.092723,TRUE
+AJS,,Abalistes stellaris,AJS,New species added in 2022 NS1,Match,236.19,FALSE
+ALM,,Aluterus monoceros,ALM,New species added in 2022 NS1,Match,644.707,FALSE
+ARQ,,Aphareus rutilans,ARQ,New species added in 2022 NS1,Match,840.316,FALSE
+AVR,,Aprion virescens,AVR,New species added in 2022 NS1,Match,24.146,FALSE
+AXZ,,Gymnothorax dorsalis,#N/A,New species added in 2022 NS1,No match/missing,1.038472631,TRUE
+AXZ,,Gymnothorax javanicus,#N/A,New species added in 2022 NS1,No match/missing,67.876,TRUE
+AYG,,Anyperodon leucogrammicus,AYG,New species added in 2022 NS1,Match,1.261,FALSE
+BAB,,Sphyraena qenie,BAB,New species added in 2022 NS1,Match,2577.025837,FALSE
+BAF,,Ablennes hians,BAF,New species added in 2022 NS1,Match,6029.68049,FALSE
+BAN,,Sphyraena putnamae,BAN,New species added in 2022 NS1,Match,3954.341,FALSE
+BEN,,Belonidae,BEN,New species added in 2022 NS1,Match,2.26,FALSE
+BKJ,,Euthynnus lineatus,BKJ,New species added in 2022 NS1,Match,15140.62652,FALSE
+BMK,,Bolbometopon muricatum,BMK,New species added in 2022 NS1,Match,34.932,FALSE
+BMZ,,Mystus nigriceps,BMZ,New species added in 2022 NS1,Match,3.583,FALSE
+BZF,,Phaethon rubricauda,#N/A,New species added in 2022 NS1,No match/missing,0.75,TRUE
+BZV,,Pentapodus trivittatus,#N/A,New species added in 2022 NS1,No match/missing,2209.858,TRUE
+CAU,,Caulerpa nummularia,#N/A,New species added in 2022 NS1,No match/missing,8.989,TRUE
+CBA,,Rachycentron canadum,CBA,New species added in 2022 NS1,Match,1491.875,FALSE
+CCI,,Carcharhinus spp,CWZ,New species added in 2022 NS1,No match/missing,1.087,TRUE
+CEM,,Centrophorus moluccensis,CEM,New species added in 2022 NS1,Match,0.369,FALSE
+CEW,,Elops hawaiensis,CEW,New species added in 2022 NS1,Match,5.384,FALSE
+CFF,,Cephalopholis argus,CFF,New species added in 2022 NS1,Match,1.555,FALSE
+CFI,,Cephalopholis miniata,CFI,New species added in 2022 NS1,Match,330.004,FALSE
+CFZ,,Cephalopholis aurantia,CFZ,New species added in 2022 NS1,Match,51.438,FALSE
+CJN,,Cookeolus japonicus,CJN,New species added in 2022 NS1,Match,1.3,FALSE
+CLD,,Loxodon macrorhinus,CLD,New species added in 2022 NS1,Match,1.947,FALSE
+CNT,,Canthidermis maculata,CNT,New species added in 2022 NS1,Match,1.118,FALSE
+CSM,,Colossoma macropomum,CSM,New species added in 2022 NS1,Match,39.7184652,FALSE
+CUL,,Uroconger lepturus,CUL,New species added in 2022 NS1,Match,17.944,FALSE
+CWI,,Cephalopholis igarashiensis,CWI,New species added in 2022 NS1,Match,145.372,FALSE
+CWU,,Cephalopholis urodeta,CWU,New species added in 2022 NS1,Match,144.708,FALSE
+CYP,,Centroscymnus crepidater,#N/A,New species added in 2022 NS1,No match/missing,1097.835699,TRUE
+DAQ,,Phoebastria albatrus,DAQ,New species added in 2022 NS1,Match,0.05,FALSE
+DCA,,Deania calcea,#N/A,New species added in 2022 NS1,No match/missing,1.5,TRUE
+DCT,,Decapterus tabl,DCT,New species added in 2022 NS1,Match,140.74,FALSE
+DDP,,Muraenesox bagio,DDP,New species added in 2022 NS1,Match,601.089,FALSE
+DGP,,Diagramma pictum,DGP,New species added in 2022 NS1,Match,70.483,FALSE
+DGW,,Acanthurus mata,DGW,New species added in 2022 NS1,Match,58.02,FALSE
+DGX,,Squalus megalops,DOP,New species added in 2022 NS1,No match/missing,28.717,TRUE
+DHJ,,Himantura jenkinsii,#N/A,New species added in 2022 NS1,No match/missing,247.074,TRUE
+DHL,,Himantura Undulata,DHL,New species added in 2022 NS1,Match,1122.363,FALSE
+DRK,,Ariomma brevimanum,#N/A,New species added in 2022 NS1,No match/missing,10.127,TRUE
+DTB,,Dipterygonotus balteatus,DTB,New species added in 2022 NS1,Match,54.468,FALSE
+DZX,,Spondylus lamarckii,#N/A,New species added in 2022 NS1,No match/missing,0.1,TRUE
+EBS,,Eumegistus illustris,EBS,New species added in 2022 NS1,Match,15.683,FALSE
+ECT,,Encrasicholina heteroloba,ECT,New species added in 2022 NS1,Match,184.285,FALSE
+EEA,,Epinephelus fasciatus,EEA,New species added in 2022 NS1,Match,5.015,FALSE
+EEC,,Epinephelus maculatus,EEC,New species added in 2022 NS1,Match,853.056,FALSE
+EEE,,Epinephelus heniochus,EEE,New species added in 2022 NS1,Match,4.135,FALSE
+EEJ,,Epinephelus magniscuttis,EEJ,New species added in 2022 NS1,Match,127.934,FALSE
+EEK,,Epinephelus polyphekadion,EEK,New species added in 2022 NS1,Match,559.401,FALSE
+EEV,,Epinephelus flavocaeruleus,EEV,New species added in 2022 NS1,Match,27.846,FALSE
+EFH,,Epinephelus chlorostigma,EFH,New species added in 2022 NS1,Match,647.822,FALSE
+EFK,,Epinephelus bleekeri,EFK,New species added in 2022 NS1,Match,514.78,FALSE
+EFQ,,Epinephelus quoyanus,EFQ,New species added in 2022 NS1,Match,651.7410478,FALSE
+EFY,,Epinephelus amblycephalus,EFY,New species added in 2022 NS1,Match,7660.05432,FALSE
+EHG,,Aethaloperca rogaa,EHG,New species added in 2022 NS1,Match,22.376,FALSE
+EHG,,Cephalopholis rogaa,#N/A,New species added in 2022 NS1,No match/missing,3.447,TRUE
+EIL,,Ilisha elongata,EIL,New species added in 2022 NS1,Match,1628.725,FALSE
+EIU,,Epinephelus undulosus,EIU,New species added in 2022 NS1,Match,127,FALSE
+EKN,,Acetes indicus,EKN,New species added in 2022 NS1,Match,10026.011,FALSE
+EKU,,Penaeus canaliculatus,EKU,New species added in 2022 NS1,Match,225.803,FALSE
+ELE,,Anguilla anguilla,ELE,New species added in 2022 NS1,Match,0.485,FALSE
+ELY,,Penaeus longistylus,ELY,New species added in 2022 NS1,Match,0.3,FALSE
+EMC,,Eucheuma cottonii,EMC,New species added in 2022 NS1,Match,260.779,FALSE
+EME,,Plectropomus areolatus,EME,New species added in 2022 NS1,Match,1035.308,FALSE
+EML,,Plectropomus laevis,EML,New species added in 2022 NS1,Match,85.333,FALSE
+END,,Encrasicholina devisi,END,New species added in 2022 NS1,Match,14754.7983,FALSE
+ENI,,Epinephelus coioides,ENI,New species added in 2022 NS1,Match,156.535,FALSE
+EOJ,,Eopsetta jordani,EOJ,New species added in 2022 NS1,Match,36.449,FALSE
+EPR,,Epinephelus areolatus,EPR,New species added in 2022 NS1,Match,66.176,FALSE
+EPY,,Epinephelus cyanopodus,EPY,New species added in 2022 NS1,Match,888.725,FALSE
+ESU,,Setipinna tenuifilis,ESU,New species added in 2022 NS1,Match,20.5,FALSE
+ESY,,Setipinna taty,ESY,New species added in 2022 NS1,Match,2432.294,FALSE
+EUB,,Eusphyra blochii,EUB,New species added in 2022 NS1,Match,202.863,FALSE
+EWC,,Epinephelus coeruleopunctatus,#N/A,New species added in 2022 NS1,No match/missing,14.952,TRUE
+EWE,,Epinephelus epistictus,EWE,New species added in 2022 NS1,Match,14.848,FALSE
+EWF,,Epinephelus fuscoguttatus,EWF,New species added in 2022 NS1,Match,4224.889,FALSE
+EWR,,Epinephelus retouti,EWR,New species added in 2022 NS1,Match,422.316,FALSE
+EWV,,Epinephelus faveatus,EWV,New species added in 2022 NS1,Match,434.2,FALSE
+EWW,,Epinephelus longispinis,EWW,New species added in 2022 NS1,Match,439.25,FALSE
+EYB,,Thryssa baelama,EYB,New species added in 2022 NS1,Match,948.8954575,FALSE
+EYH,,Thryssa hamiltonii,EYH,New species added in 2022 NS1,Match,3702.15,FALSE
+EYK,,Thryssa kammalensis,EYK,New species added in 2022 NS1,Match,527.739,FALSE
+EYT,,Thryssa setirostris,EYT,New species added in 2022 NS1,Match,323.165,FALSE
+EZO,,Epinephelus spilotoceps,EZO,New species added in 2022 NS1,Match,225.752,FALSE
+EZR,,Epinephelus radiatus,EZR,New species added in 2022 NS1,Match,61.618,FALSE
+FCG,,Ctenopharyngodon idellus,#N/A,New species added in 2022 NS1,No match/missing,0.730090644,TRUE
+FCW,,Atherinomorus lacunosus,FCW,New species added in 2022 NS1,Match,5943.841,FALSE
+FDP,,Hyporhamphus dussumieri,#N/A,New species added in 2022 NS1,No match/missing,4.107,TRUE
+FHS,,Centriscus scutatus,FHS,New species added in 2022 NS1,Match,0.134130536,FALSE
+FLP,,Penaeus chinensis,FLP,New species added in 2022 NS1,Match,582.22,FALSE
+FQB,,Hypoatherina temminckii,FQB,New species added in 2022 NS1,Match,574.2244588,FALSE
+GCA,,Gracila albomarginata,GCA,New species added in 2022 NS1,Match,1855.470197,FALSE
+GEF,,Gerres filamentosus,GEF,New species added in 2022 NS1,Match,75.497,FALSE
+GEJ,,Gerres oyena,GEJ,New species added in 2022 NS1,Match,56.548,FALSE
+GES,,Gempylus serpens,GES,New species added in 2022 NS1,Match,778.41,FALSE
+GMR,,Gymnocranius griseus,GMR,New species added in 2022 NS1,Match,17625.80888,FALSE
+GOU,,Glossogobius giuris,GOU,New species added in 2022 NS1,Match,9.820823237,FALSE
+GUQ,,Centrophorus squamosus,GUQ,New species added in 2022 NS1,Match,5.185,FALSE
+GVS,,Sargassum muticum,GVS,New species added in 2022 NS1,Match,38968.179,FALSE
+GZM,,Gazza minuta,GZM,New species added in 2022 NS1,Match,5.4,FALSE
+HEH,,Hemigaleus microstoma,HEH,New species added in 2022 NS1,Match,0.16,FALSE
+HIX,,Hilsa kelee,HIX,New species added in 2022 NS1,Match,433.912,FALSE
+HJC,,Rhinecanthus aculeatus,HJC,New species added in 2022 NS1,Match,95.739,FALSE
+HKD,,Herklotsichthys dispilonotus,#N/A,New species added in 2022 NS1,No match/missing,2051.933,TRUE
+HNM,,Heniochus acuminatus,HNM,New species added in 2022 NS1,Match,0.3,FALSE
+HQR,,Harpiosquilla raphidea,HQR,New species added in 2022 NS1,Match,450.461,FALSE
+HRR,,Chrysochir aureus,HRR,New species added in 2022 NS1,Match,508.995,FALSE
+IEN,,Saurida longimanus,IEN,New species added in 2022 NS1,Match,925.332,FALSE
+IET,,Platax pinnatus,IET,New species added in 2022 NS1,Match,29.555,FALSE
+IIX,,Cephalopholis aitha,#N/A,New species added in 2022 NS1,No match/missing,715.5968149,TRUE
+JBK,,Cheilinus chlorourus,JBK,New species added in 2022 NS1,Match,131.846,FALSE
+JCS,,Johnius borneensis,JCS,New species added in 2022 NS1,Match,128.631,FALSE
+JIP,,Anampses caeruleopunctatus,JIP,New species added in 2022 NS1,Match,0.052919768,FALSE
+JOA,,Johnius amblycephalus,JOA,New species added in 2022 NS1,Match,540.56,FALSE
+JWY,,Alepes kleinii,JWY,New species added in 2022 NS1,Match,1550.823,FALSE
+KBR,,Argyrops spinifer,KBR,New species added in 2022 NS1,Match,7924.00933,FALSE
+KPM,,Carpilius maculatus,KPM,New species added in 2022 NS1,Match,2838.598893,FALSE
+KYV,,Kyphosus vaigiensis,KYV,New species added in 2022 NS1,Match,136.114,FALSE
+LAG,,Lampris guttatus,LAG,New species added in 2022 NS1,Match,547.7390074,FALSE
+LBR,,Gymnocranius elongatus,#N/A,New species added in 2022 NS1,No match/missing,0.35,TRUE
+LGS,,Aurigequula fasciata,LGS,New species added in 2022 NS1,Match,1577.812,FALSE
+LJB,,Lutjanus bohar,LJB,New species added in 2022 NS1,Match,8.177,FALSE
+LKR,,Otolithes ruber,LKR,New species added in 2022 NS1,Match,253.558,FALSE
+LOB,,Lobotes surinamensis,LOB,New species added in 2022 NS1,Match,1070.481866,FALSE
+LRK,,Paracaesio kusakarii,LRK,New species added in 2022 NS1,Match,4122.687,FALSE
+LRO,,Selar boops,LRO,New species added in 2022 NS1,Match,1145.061,FALSE
+LSJ,,Alepes djedaba,LSJ,New species added in 2022 NS1,Match,593.535,FALSE
+LSN,,Alepes melanoptera,LSN,New species added in 2022 NS1,Match,655.6741238,FALSE
+LSV,,Alepes vari,LSV,New species added in 2022 NS1,Match,2324.912,FALSE
+LUB,,Lutjanus spp,SNA,New species added in 2022 NS1,No match/missing,1.038,TRUE
+LWT,,Lutjanus timorensis,LWT,New species added in 2022 NS1,Match,364.329,FALSE
+LZX,,Lethrinus spp,LZX,New species added in 2022 NS1,Match,4.37,FALSE
+MAK,,Isurus glaucus,#N/A,New species added in 2022 NS1,No match/missing,1111.556,TRUE
+MAK,,Isurus spp,MAK,New species added in 2022 NS1,Match,3.935,FALSE
+MBG,,Ambassis gymnocephalus,MBG,New species added in 2022 NS1,Match,670.666,FALSE
+MCB,,Congresox talabon,MCB,New species added in 2022 NS1,Match,163.912,FALSE
+MCO,,Macrochirichthys macrochirus,MCO,New species added in 2022 NS1,Match,354.846,FALSE
+MEN,,Melichthys niger,MEN,New species added in 2022 NS1,Match,7.76,FALSE
+MIL,,Chanos chanos,MIL,New species added in 2022 NS1,Match,1187.241,FALSE
+MOJ,,Gerres erythrourus,#N/A,New species added in 2022 NS1,No match/missing,7464.718305,TRUE
+MOO,,Mene maculata,MOO,New species added in 2022 NS1,Match,953.992,FALSE
+MOU,,Monodactylus argenteus,MOU,New species added in 2022 NS1,Match,5.101,FALSE
+MUV,,Mulloidichthys flavolineatus,MUV,New species added in 2022 NS1,Match,18.56,FALSE
+MYN,,Hemibagrus nemurus,MYN,New species added in 2022 NS1,Match,17.302,FALSE
+MYN,,Mystus nemurus,#N/A,New species added in 2022 NS1,No match/missing,997.624,TRUE
+MZP,,Mystacoleucus padangensis,MZP,New species added in 2022 NS1,Match,32.232,FALSE
+,,Abudefduf bengalensis,#N/A,New species added in 2022 NS1,No match/missing,58.484,TRUE
+,,Acropoma argentistigma,#N/A,New species added in 2022 NS1,No match/missing,94.973,TRUE
+,,Amphidromus javanicus,#N/A,New species added in 2022 NS1,No match/missing,8.346,TRUE
+,,Apogonichthyoides melas,#N/A,New species added in 2022 NS1,No match/missing,54.29541026,TRUE
+,,Atherinomorus duodecimalis,#N/A,New species added in 2022 NS1,No match/missing,1117.894,TRUE
+,,Barbonymus balleroides,#N/A,New species added in 2022 NS1,No match/missing,4.253,TRUE
+,,Cambarellus patzcuarensis,#N/A,New species added in 2022 NS1,No match/missing,296.888,TRUE
+,,Cetoscarus ocellatus,#N/A,New species added in 2022 NS1,No match/missing,6.378,TRUE
+,,Cheilopogon arcticeps,#N/A,New species added in 2022 NS1,No match/missing,5037.412763,TRUE
+,,Emperor Pinkear,#N/A,New species added in 2022 NS1,No match/missing,1.33,TRUE
+,,Equulites laterofenestra,#N/A,New species added in 2022 NS1,No match/missing,149.016,TRUE
+,,Euristhmus microceps,#N/A,New species added in 2022 NS1,No match/missing,31.686,TRUE
+,,Fenneropenaeus indicus,#N/A,New species added in 2022 NS1,No match/missing,3304.163,TRUE
+,,Gymnocranius griseus ,#N/A,New species added in 2022 NS1,No match/missing,1.08,TRUE
+,,Helotes sexlineatus,#N/A,New species added in 2022 NS1,No match/missing,3810.998,TRUE
+,,Heniochus singularius,#N/A,New species added in 2022 NS1,No match/missing,0.02490342,TRUE
+,,Irolita westraliensis,#N/A,New species added in 2022 NS1,No match/missing,0.121,TRUE
+,,Liopropoma randalli,#N/A,New species added in 2022 NS1,No match/missing,7697.025,TRUE
+,,Macrobranchium assamensis,#N/A,New species added in 2022 NS1,No match/missing,0.002,TRUE
+,,Megokris granulosus,#N/A,New species added in 2022 NS1,No match/missing,1203.719,TRUE
+,,Melichthys vidua,#N/A,New species added in 2022 NS1,No match/missing,28.202,TRUE
+,,Paracaesio brevidentata,#N/A,New species added in 2022 NS1,No match/missing,3484.114153,TRUE
+,,Pinjalo lewisi,#N/A,New species added in 2022 NS1,No match/missing,505.647,TRUE
+,,Plectranthias retrofasciatus,#N/A,New species added in 2022 NS1,No match/missing,443.384,TRUE
+,,Prionurus chrysurus,#N/A,New species added in 2022 NS1,No match/missing,8.086,TRUE
+,,Pristis microdon,#N/A,New species added in 2022 NS1,No match/missing,19.739,TRUE
+,,Rhinecanthus rectangulus,#N/A,New species added in 2022 NS1,No match/missing,9.933,TRUE
+,,Rhinecanthus verrucosus,#N/A,New species added in 2022 NS1,No match/missing,0.023,TRUE
+,,Strongylura incisa,#N/A,New species added in 2022 NS1,No match/missing,104.9,TRUE
+,,Symphysanodon katayamai,#N/A,New species added in 2022 NS1,No match/missing,1097.309393,TRUE
+,,Trachysalambria malaiana,#N/A,New species added in 2022 NS1,No match/missing,5.064,TRUE
+,,Trygon sephen,#N/A,New species added in 2022 NS1,No match/missing,821.146,TRUE
+NAP,,Parapenaeopsis sculptilis,NAP,New species added in 2022 NS1,Match,3648.895,FALSE
+NBH,,Naso annulatus,NBH,New species added in 2022 NS1,Match,1.119989977,FALSE
+NCG,,Chitala lopis,NCG,New species added in 2022 NS1,Match,0.91,FALSE
+NCL,,Paphia undulata,#N/A,New species added in 2022 NS1,No match/missing,1494.8,TRUE
+NDK,,Nibea soldado,NDK,New species added in 2022 NS1,Match,820.257,FALSE
+NDQ,,Anadara antiquata,NDQ,New species added in 2022 NS1,Match,12631.063,FALSE
+NJF,,Parascolopsis eriomma,NJF,New species added in 2022 NS1,Match,369.153,FALSE
+NPC,,Pentapodus caninus,NPC,New species added in 2022 NS1,Match,270.287,FALSE
+NPN,,Parapenaeopsis cornuta,NPN,New species added in 2022 NS1,Match,388.502,FALSE
+NQX,,Pentapodus setosus,#N/A,New species added in 2022 NS1,No match/missing,3804.597,TRUE
+NSC,,Scolopsis bilineata,NSC,New species added in 2022 NS1,Match,1020.415,FALSE
+OAO,,Solea ovata,OAO,New species added in 2022 NS1,Match,17.405,FALSE
+ODV,,Podophthalmus vigil,ODV,New species added in 2022 NS1,Match,7.147,FALSE
+OFW,,Choerodon anchorago,#N/A,New species added in 2022 NS1,No match/missing,0.038,TRUE
+OIL,,Ruvettus pretiosus,OIL,New species added in 2022 NS1,Match,55.512,FALSE
+ORT,,Orectolobus maculatus,ORT,New species added in 2022 NS1,Match,0.134,FALSE
+OTI,,Protonibea diacanthus,OTI,New species added in 2022 NS1,Match,3717.73,FALSE
+PGP,,Pangasius Pangasius,PGP,New species added in 2022 NS1,Match,0.814,FALSE
+PIE,,Ilisha melastoma,PIE,New species added in 2022 NS1,Match,1366.425,FALSE
+PII,,Plotosus lineatus,PII,New species added in 2022 NS1,Match,1030.981,FALSE
+PJL,,Pentaprion longimanus,PJL,New species added in 2022 NS1,Match,2306.825,FALSE
+PJP,,Pinjalo pinjalo,PJP,New species added in 2022 NS1,Match,655.357,FALSE
+PLM,,Plectropomus maculatus,PLM,New species added in 2022 NS1,Match,12.482,FALSE
+PLS,,Pteroplatytrygon violacea,PLS,New species added in 2022 NS1,Match,82.95,FALSE
+PNV,,Penaeus vannamei,PNV,New species added in 2022 NS1,Match,2343.491,FALSE
+POO,,Trachinotus blochii,POO,New species added in 2022 NS1,Match,29.275,FALSE
+PQD,,Pelates quadrilineatus,PQD,New species added in 2022 NS1,Match,0.146307595,FALSE
+PRF,,Macrobrachium rosenbergii,PRF,New species added in 2022 NS1,Match,1636.945,FALSE
+PRP,,Promethichthys prometheus,PRP,New species added in 2022 NS1,Match,508.0715024,FALSE
+PUN,,Plotosus canius,PUN,New species added in 2022 NS1,Match,4779.861,FALSE
+QRS,,Filimanus perplexa,QRS,New species added in 2022 NS1,Match,295.6,FALSE
+QSQ,,Polydactylus microstomus,QSQ,New species added in 2022 NS1,Match,4040.226,FALSE
+RAF,,Rastrelliger faughni,RAF,New species added in 2022 NS1,Match,102616.4749,FALSE
+RCD,,Rhynchobatus djiddensis,RCD,New species added in 2022 NS1,Match,233.734,FALSE
+RDF,,Hemitrygon fluviorum,RDF,New species added in 2022 NS1,Match,84.668,FALSE
+RDK,,Neotrygon kuhlii,RDK,New species added in 2022 NS1,Match,1486.502,FALSE
+RFP,,Parupeneus barberinus,RFP,New species added in 2022 NS1,Match,4059.31312,FALSE
+RFQ,,Parupeneus indicus,RFQ,New species added in 2022 NS1,Match,3195.878,FALSE
+RGI,,Gymnura micrura,RGI,New species added in 2022 NS1,Match,599.1902768,FALSE
+RHA,,Rhizoprionodon acutus,RHA,New species added in 2022 NS1,Match,140.573,FALSE
+RPX,,Parupeneus cinnabarius,#N/A,New species added in 2022 NS1,No match/missing,1443.745228,TRUE
+RPY,,Parupeneus cyclostomus,RPY,New species added in 2022 NS1,Match,5744.737,FALSE
+RQF,,Parupeneus heptacanthus,RQF,New species added in 2022 NS1,Match,588.63,FALSE
+RRY,,Rhina ancylostoma,#N/A,New species added in 2022 NS1,No match/missing,25.896,TRUE
+RTE,,Taeniura meyeni,#N/A,New species added in 2022 NS1,No match/missing,24.052,TRUE
+RTY,,Taeniura lymma,RTY,New species added in 2022 NS1,Match,286.3599775,FALSE
+RYH,,Aetomylaeus niehofii,RYH,New species added in 2022 NS1,Match,0.715,FALSE
+SGY,,Strongylura strongylura,SGY,New species added in 2022 NS1,Match,134.152,FALSE
+SMA,,Isurus oxyrinchus,SMA,New species added in 2022 NS1,Match,23.129,FALSE
+SPS,,Drepane punctata,SPS,New species added in 2022 NS1,Match,712.592,FALSE
+STL,,Encrasicholina punctifer,STL,New species added in 2022 NS1,Match,5275.236623,FALSE
+SYQ,,Strongylura leiura,SYQ,New species added in 2022 NS1,Match,309.336,FALSE
+SYW,,Synodus variegatus,SYW,New species added in 2022 NS1,Match,513.167,FALSE
+TEC,,Pterocaesio chrysozona,TEC,New species added in 2022 NS1,Match,252.37,FALSE
+THM,,Thyrsitoides marleyi,THM,New species added in 2022 NS1,Match,31.457,FALSE
+THQ,,Thenus orientalis,THQ,New species added in 2022 NS1,Match,13.74395543,FALSE
+TIG,,Galeocerdo cuvier,TIG,New species added in 2022 NS1,Match,278.0009702,FALSE
+TIP,,Penaeus semisulcatus,TIP,New species added in 2022 NS1,Match,886.542,FALSE
+TST,,Taractichthys steindachneri,TST,New species added in 2022 NS1,Match,19.641,FALSE
+TUM,,Atule mate,TUM,New species added in 2022 NS1,Match,3663.288,FALSE
+TZD,,Tor douronensis,TZD,New species added in 2022 NS1,Match,337.86,FALSE
+UBH,,Turbo chrysostomus,UBH,New species added in 2022 NS1,Match,5.264,FALSE
+UBP,,Cubiceps capensis,UBP,New species added in 2022 NS1,Match,1506.415,FALSE
+UBV,,Pseudobalistes flavimarginatus,UBV,New species added in 2022 NS1,Match,506.636,FALSE
+UHA,,Pseudorhombus arsius,UHA,New species added in 2022 NS1,Match,20.752,FALSE
+UHG,,Pseudorhombus malayanus,UHG,New species added in 2022 NS1,Match,35.161,FALSE
+UHJ,,Pseudorhombus javanicus,UHJ,New species added in 2022 NS1,Match,113.78,FALSE
+ULE,,Ulua mentalis,ULE,New species added in 2022 NS1,Match,2156.729,FALSE
+ULG,,Calotomus carolinus,ULG,New species added in 2022 NS1,Match,1.593,FALSE
+UMP,,Amusium pleuronectes,UMP,New species added in 2022 NS1,Match,0.587,FALSE
+USZ,,Scarus frenatus,USZ,New species added in 2022 NS1,Match,319.59,FALSE
+UTI,,Secutor insidiator,UTI,New species added in 2022 NS1,Match,822.192,FALSE
+UUS,,Chlorurus sordidus,UUS,New species added in 2022 NS1,Match,1.65,FALSE
+VRA,,Variola albimarginata,VRA,New species added in 2022 NS1,Match,544.757,FALSE
+VRL,,Variola louti,VRL,New species added in 2022 NS1,Match,11.674,FALSE
+WBM,,Brotula multibarbata,WBM,New species added in 2022 NS1,Match,1.5,FALSE
+WKP,,Penaeus latisulcatus,WKP,New species added in 2022 NS1,Match,1655.65,FALSE
+YBS,,Sphyraena forsteri,YBS,New species added in 2022 NS1,Match,441.44,FALSE
+YED,,Nibea albiflora,YED,New species added in 2022 NS1,Match,48.828,FALSE
+YEO,,Atypopenaeus formosus,YEO,New species added in 2022 NS1,Match,285.773,FALSE
+YLU,,Scylaroies squamosus,#N/A,New species added in 2022 NS1,No match/missing,194.539923,TRUE
+YLU,,Scyllarides squammosus,YLU,New species added in 2022 NS1,Match,1.944,FALSE
+YLW,,Scylla olivacea,YLW,New species added in 2022 NS1,Match,1304.584936,FALSE
+YME,,Polymesoda erosa,YME,New species added in 2022 NS1,Match,472.74,FALSE
+YOB,,Cynoglossus bilineatus,YOB,New species added in 2022 NS1,Match,208.778,FALSE
+YOG,,Cynoglossus lingua,YOG,New species added in 2022 NS1,Match,3919.682,FALSE
+YOR,,Cynoglossus arel,YOR,New species added in 2022 NS1,Match,6442.075,FALSE
+YPX,,Cypselurus angusticeps,#N/A,New species added in 2022 NS1,No match/missing,1350.954,TRUE
+YPX,,Cypselurus opisthopus,#N/A,New species added in 2022 NS1,No match/missing,116.9709993,TRUE
+YRB,,Sphyraena obtusata,YRB,New species added in 2022 NS1,Match,244.0969613,FALSE
+ZUE,,Zu elongatus,ZUE,New species added in 2022 NS1,Match,23.136,FALSE
+MAR,,Epinephelus malabaricus,MAR,New species added in 2022 NS1,Match,58.35,FALSE
+AJS,,Abalistes filamentosus,#N/A,New species added in 2022 NS1,No match/missing,7401.480171,TRUE
+AJS,,Abalistes stellaris,AJS,New species added in 2022 NS1,Match,5781.826,FALSE
+ALB,,Thunnus alalunga,ALB,New species added in 2022 NS1,Match,0.774,FALSE
+ALM,,Aluterus monoceros,ALM,New species added in 2022 NS1,Match,0.24,FALSE
+AQV,,Acanthurus olivaceus,AQV,New species added in 2022 NS1,Match,0.246,FALSE
+ARQ,,Aphareus rutilans,ARQ,New species added in 2022 NS1,Match,205.871,FALSE
+ATY,,Atelomycterus marmoratus,ATY,New species added in 2022 NS1,Match,2179.18,FALSE
+AVR,,Aprion virescens,AVR,New species added in 2022 NS1,Match,1100.36,FALSE
+AWX,,Arius crossocheilus,#N/A,New species added in 2022 NS1,No match/missing,358.178,TRUE
+AXQ,,Acanthurus auranticavus,#N/A,New species added in 2022 NS1,No match/missing,15.102,TRUE
+AXQ,,Acanthurus pyroferus,#N/A,New species added in 2022 NS1,No match/missing,81.107,TRUE
+AXQ,,Acanthurus xanthopterus,#N/A,New species added in 2022 NS1,No match/missing,76.282,TRUE
+AXZ,,Gymnothorax dorsalis,#N/A,New species added in 2022 NS1,No match/missing,46.30427258,TRUE
+AXZ,,Gymnothorax javanicus,#N/A,New species added in 2022 NS1,No match/missing,88.036,TRUE
+AYG,,Anyperodon leucogrammicus,AYG,New species added in 2022 NS1,Match,754.985,FALSE
+BAB,,Sphyraena qenie,BAB,New species added in 2022 NS1,Match,3480.855,FALSE
+BAF,,Ablennes hians,BAF,New species added in 2022 NS1,Match,22466.80672,FALSE
+BAN,,Sphyraena putnamae,BAN,New species added in 2022 NS1,Match,1680.455,FALSE
+BAT,,Platax boersii,#N/A,New species added in 2022 NS1,No match/missing,0.716,TRUE
+BID,,Balistapus undulatus,BID,New species added in 2022 NS1,Match,70.768,FALSE
+BKJ,,Euthynnus lineatus,BKJ,New species added in 2022 NS1,Match,21628.39044,FALSE
+BMK,,Bolbometopon muricatum,BMK,New species added in 2022 NS1,Match,3177.4732,FALSE
+BMZ,,Mystus nigriceps,BMZ,New species added in 2022 NS1,Match,146.835,FALSE
+BQX,,Stromateus cinereus,#N/A,New species added in 2022 NS1,No match/missing,1009.9,TRUE
+BSH,,Prionace glauca,BSH,New species added in 2022 NS1,Match,394.016,FALSE
+BZV,,Pentapodus trivittatus,#N/A,New species added in 2022 NS1,No match/missing,14142.36101,TRUE
+CBA,,Rachycentron canadum,CBA,New species added in 2022 NS1,Match,1725.822,FALSE
+CEM,,Centrophorus moluccensis,CEM,New species added in 2022 NS1,Match,0.41,FALSE
+CEW,,Elops hawaiensis,CEW,New species added in 2022 NS1,Match,802.95,FALSE
+CFF,,Cephalopholis argus,CFF,New species added in 2022 NS1,Match,78.78,FALSE
+CFI,,Cephalopholis miniata,CFI,New species added in 2022 NS1,Match,2286.043,FALSE
+CFX,,Cephalopholis sexmaculata,CFX,New species added in 2022 NS1,Match,34.77266057,FALSE
+CFY,,Cephalopholis cyanostigma,CFY,New species added in 2022 NS1,Match,1271.038,FALSE
+CFZ,,Cephalopholis aurantia,CFZ,New species added in 2022 NS1,Match,189.0227478,FALSE
+CJN,,Cookeolus japonicus,CJN,New species added in 2022 NS1,Match,322.6632771,FALSE
+CNT,,Canthidermis maculata,CNT,New species added in 2022 NS1,Match,1.301,FALSE
+CWI,,Cephalopholis igarashiensis,CWI,New species added in 2022 NS1,Match,1419.391567,FALSE
+CWR,,Cephalopholis spiloparaea,CWR,New species added in 2022 NS1,Match,36.85,FALSE
+CYP,,Centroscymnus crepidater,#N/A,New species added in 2022 NS1,No match/missing,7911.411603,TRUE
+DDP,,Muraenesox bagio,DDP,New species added in 2022 NS1,Match,42.784,FALSE
+DGP,,Diagramma pictum,DGP,New species added in 2022 NS1,Match,19908.403,FALSE
+DGW,,Acanthurus mata,DGW,New species added in 2022 NS1,Match,164.839,FALSE
+DHB,,Pateobatis bleekeri,DHB,New species added in 2022 NS1,Match,216.131,FALSE
+DHG,,Maculabatis gerrardi,DHG,New species added in 2022 NS1,Match,115.357,FALSE
+DHJ,,Himantura jenkinsii,#N/A,New species added in 2022 NS1,No match/missing,505.257,TRUE
+DHL,,Himantura Undulata,DHL,New species added in 2022 NS1,Match,3127.291,FALSE
+DHO,,Diodron holocanilus,#N/A,New species added in 2022 NS1,No match/missing,345.9,TRUE
+DOT,,Gymnosarda unicolor,DOT,New species added in 2022 NS1,Match,6112.4606,FALSE
+DPC,,Muraenesox cinereus,DPC,New species added in 2022 NS1,Match,1569.917,FALSE
+DTB,,Dipterygonotus balteatus,DTB,New species added in 2022 NS1,Match,15.825,FALSE
+DVM,,Helicolenus barathri,DVM,New species added in 2022 NS1,Match,120.1206883,FALSE
+EBS,,Eumegistus illustris,EBS,New species added in 2022 NS1,Match,6740.01334,FALSE
+ECP,,Cypselurus poecilopterus,ECP,New species added in 2022 NS1,Match,50.83604637,FALSE
+ECT,,Encrasicholina heteroloba,ECT,New species added in 2022 NS1,Match,627.3883012,FALSE
+EEA,,Epinephelus fasciatus,EEA,New species added in 2022 NS1,Match,65.244,FALSE
+EEC,,Epinephelus maculatus,EEC,New species added in 2022 NS1,Match,1653.707729,FALSE
+EEK,,Epinephelus polyphekadion,EEK,New species added in 2022 NS1,Match,174.2185752,FALSE
+EFK,,Epinephelus bleekeri,EFK,New species added in 2022 NS1,Match,4343.2016,FALSE
+EFQ,,Epinephelus quoyanus,EFQ,New species added in 2022 NS1,Match,820.6070478,FALSE
+EFY,,Epinephelus amblycephalus,EFY,New species added in 2022 NS1,Match,10144.88147,FALSE
+EHG,,Aethaloperca rogaa,EHG,New species added in 2022 NS1,Match,633.6245013,FALSE
+EIL,,Ilisha elongata,EIL,New species added in 2022 NS1,Match,1610.538,FALSE
+EIU,,Epinephelus undulosus,EIU,New species added in 2022 NS1,Match,730.46,FALSE
+EKN,,Acetes indicus,EKN,New species added in 2022 NS1,Match,26958.197,FALSE
+EKU,,Penaeus canaliculatus,EKU,New species added in 2022 NS1,Match,94.215,FALSE
+ELY,,Penaeus longistylus,ELY,New species added in 2022 NS1,Match,36.27,FALSE
+EMC,,Eucheuma cottonii,EMC,New species added in 2022 NS1,Match,67.107,FALSE
+EME,,Plectropomus areolatus,EME,New species added in 2022 NS1,Match,4335.402,FALSE
+EML,,Plectropomus laevis,EML,New species added in 2022 NS1,Match,1133.691101,FALSE
+EMW,,Plectropomus oligacanthus,EMW,New species added in 2022 NS1,Match,47.576,FALSE
+END,,Encrasicholina devisi,END,New species added in 2022 NS1,Match,66257.24841,FALSE
+ENI,,Epinephelus coioides,ENI,New species added in 2022 NS1,Match,1226.517,FALSE
+EOJ,,Eopsetta jordani,EOJ,New species added in 2022 NS1,Match,632.977,FALSE
+EPR,,Epinephelus areolatus,EPR,New species added in 2022 NS1,Match,9.759,FALSE
+EPY,,Epinephelus cyanopodus,EPY,New species added in 2022 NS1,Match,682.828,FALSE
+ESN,,Stolephorus insularis,ESN,New species added in 2022 NS1,Match,3792.914916,FALSE
+ESU,,Setipinna tenuifilis,ESU,New species added in 2022 NS1,Match,3060.637,FALSE
+ESY,,Setipinna taty,ESY,New species added in 2022 NS1,Match,2075.738,FALSE
+EUB,,Eusphyra blochii,EUB,New species added in 2022 NS1,Match,284.1469218,FALSE
+EWC,,Epinephelus coeruleopunctatus,#N/A,New species added in 2022 NS1,No match/missing,377.6,TRUE
+EWE,,Epinephelus epistictus,EWE,New species added in 2022 NS1,Match,395.36,FALSE
+EWF,,Epinephelus fuscoguttatus,EWF,New species added in 2022 NS1,Match,4844.755,FALSE
+EWU,,Epinephelus multinotatus,EWU,New species added in 2022 NS1,Match,29.213,FALSE
+EWV,,Epinephelus faveatus,EWV,New species added in 2022 NS1,Match,641.354,FALSE
+EWW,,Epinephelus longispinis,EWW,New species added in 2022 NS1,Match,2041.477,FALSE
+EYB,,Thryssa baelama,EYB,New species added in 2022 NS1,Match,7396.734,FALSE
+EYH,,Thryssa hamiltonii,EYH,New species added in 2022 NS1,Match,4521.626,FALSE
+EYT,,Thryssa setirostris,EYT,New species added in 2022 NS1,Match,72.59,FALSE
+EZO,,Epinephelus spilotoceps,EZO,New species added in 2022 NS1,Match,134.767,FALSE
+FAP,,Amphiprion clarkii,FAP,New species added in 2022 NS1,Match,0.982,FALSE
+FCG,,Ctenopharyngodon idellus,#N/A,New species added in 2022 NS1,No match/missing,683.243,TRUE
+FCW,,Atherinomorus lacunosus,FCW,New species added in 2022 NS1,Match,3751.042235,FALSE
+FDP,,Hyporhamphus dussumieri,#N/A,New species added in 2022 NS1,No match/missing,171.813,TRUE
+FHS,,Centriscus scutatus,FHS,New species added in 2022 NS1,Match,0.028167413,FALSE
+FLP,,Penaeus chinensis,FLP,New species added in 2022 NS1,Match,3196.275,FALSE
+FQB,,Hypoatherina temminckii,FQB,New species added in 2022 NS1,Match,2836.049,FALSE
+FRL,,Pharus legumen,FRL,New species added in 2022 NS1,Match,184.5,FALSE
+FSS,,Channa striata,FSS,New species added in 2022 NS1,Match,79.516,FALSE
+GCA,,Gracila albomarginata,GCA,New species added in 2022 NS1,Match,16928.24658,FALSE
+GEF,,Gerres filamentosus,GEF,New species added in 2022 NS1,Match,1249.195,FALSE
+GEJ,,Gerres oyena,GEJ,New species added in 2022 NS1,Match,208.277,FALSE
+GES,,Gempylus serpens,GES,New species added in 2022 NS1,Match,136.93,FALSE
+GJW,,Gracilaria verrucosa,GJW,New species added in 2022 NS1,Match,874.685,FALSE
+GMR,,Gymnocranius griseus,GMR,New species added in 2022 NS1,Match,27718.8736,FALSE
+GUQ,,Centrophorus squamosus,GUQ,New species added in 2022 NS1,Match,230.864,FALSE
+GVM,,Grammoplites scaber,GVM,New species added in 2022 NS1,Match,14.214,FALSE
+GVS,,Sargassum muticum,GVS,New species added in 2022 NS1,Match,16177.108,FALSE
+GXR,,Gnathodentex aureolineatus,GXR,New species added in 2022 NS1,Match,0.635,FALSE
+GZM,,Gazza minuta,GZM,New species added in 2022 NS1,Match,98.642,FALSE
+GZP,,Hyporhamphus quoyi,GZP,New species added in 2022 NS1,Match,61.037,FALSE
+HIX,,Hilsa kelee,HIX,New species added in 2022 NS1,Match,294.32,FALSE
+HJC,,Rhinecanthus aculeatus,HJC,New species added in 2022 NS1,Match,0.588,FALSE
+HNM,,Heniochus acuminatus,HNM,New species added in 2022 NS1,Match,34.662,FALSE
+HQR,,Harpiosquilla raphidea,HQR,New species added in 2022 NS1,Match,7202.038,FALSE
+HRR,,Chrysochir aureus,HRR,New species added in 2022 NS1,Match,1071.017,FALSE
+IEN,,Saurida longimanus,IEN,New species added in 2022 NS1,Match,7761.92,FALSE
+IET,,Platax pinnatus,IET,New species added in 2022 NS1,Match,1499.395,FALSE
+IEY,,Plectorhinchus lineatus,IEY,New species added in 2022 NS1,Match,19.842,FALSE
+IIX,,Cephalopholis aitha,#N/A,New species added in 2022 NS1,No match/missing,3919.76648,TRUE
+IYL,,Sicyopterus lagocephalus,IYL,New species added in 2022 NS1,Match,3465.432609,FALSE
+JBK,,Cheilinus chlorourus,JBK,New species added in 2022 NS1,Match,2185.965,FALSE
+JCS,,Johnius borneensis,JCS,New species added in 2022 NS1,Match,5415.496,FALSE
+JOA,,Johnius amblycephalus,JOA,New species added in 2022 NS1,Match,4254.779,FALSE
+JOU,,Johnius dussumieri,JOU,New species added in 2022 NS1,Match,1444.663,FALSE
+JWY,,Alepes kleinii,JWY,New species added in 2022 NS1,Match,5798.52,FALSE
+KBB,,Argyrops bleekeri,KBB,New species added in 2022 NS1,Match,641.605,FALSE
+KBR,,Argyrops spinifer,KBR,New species added in 2022 NS1,Match,15088.35815,FALSE
+KPM,,Carpilius maculatus,KPM,New species added in 2022 NS1,Match,29158.06581,FALSE
+KYC,,Kyphosus cinerascens,KYC,New species added in 2022 NS1,Match,26.036,FALSE
+KYV,,Kyphosus vaigiensis,KYV,New species added in 2022 NS1,Match,44.108,FALSE
+KZL,,Nuchequula gerreoides,KZL,New species added in 2022 NS1,Match,91.797,FALSE
+LAG,,Lampris guttatus,LAG,New species added in 2022 NS1,Match,3801.368,FALSE
+LCV,,Photopectoralis bindus,#N/A,New species added in 2022 NS1,No match/missing,157.108,TRUE
+LGS,,Aurigequula fasciata,LGS,New species added in 2022 NS1,Match,12042.587,FALSE
+LHT,,Trichiurus savala,#N/A,New species added in 2022 NS1,No match/missing,47.824,TRUE
+LJB,,Lutjanus bohar,LJB,New species added in 2022 NS1,Match,43.5,FALSE
+LJV,,Lutjanus fulvus,LJV,New species added in 2022 NS1,Match,645.868,FALSE
+LKR,,Otolithes ruber,LKR,New species added in 2022 NS1,Match,7768.358,FALSE
+LOB,,Lobotes surinamensis,LOB,New species added in 2022 NS1,Match,9012.231348,FALSE
+LOV,,Leptoscarus vaigiensis,LOV,New species added in 2022 NS1,Match,82.08,FALSE
+LRC,,Paracaesio caerulea,LRC,New species added in 2022 NS1,Match,529.8,FALSE
+LRK,,Paracaesio kusakarii,LRK,New species added in 2022 NS1,Match,25910.22857,FALSE
+LRO,,Selar boops,LRO,New species added in 2022 NS1,Match,1076.339,FALSE
+LRX,,Paracaesio xanthura,LRX,New species added in 2022 NS1,Match,92.711,FALSE
+LSJ,,Alepes djedaba,LSJ,New species added in 2022 NS1,Match,9254.88892,FALSE
+LSN,,Alepes melanoptera,LSN,New species added in 2022 NS1,Match,965.2397266,FALSE
+LSV,,Alepes vari,LSV,New species added in 2022 NS1,Match,2120.728,FALSE
+LTA,,Euthynnus alletteratus,LTA,New species added in 2022 NS1,Match,243.481,FALSE
+LTJ,,Lutjanus vivanus,LTJ,New species added in 2022 NS1,Match,82.625,FALSE
+LTY,,Lethrinus erythropterus,LTY,New species added in 2022 NS1,Match,2.77,FALSE
+MAK,,Isurus glaucus,#N/A,New species added in 2022 NS1,No match/missing,110.5508521,TRUE
+MCB,,Congresox talabon,MCB,New species added in 2022 NS1,Match,18824.322,FALSE
+MCO,,Macrochirichthys macrochirus,MCO,New species added in 2022 NS1,Match,414.757,FALSE
+MEN,,Melichthys niger,MEN,New species added in 2022 NS1,Match,26.062,FALSE
+MIL,,Chanos chanos,MIL,New species added in 2022 NS1,Match,1586.225,FALSE
+MOB,,Scolopsis affinis,#N/A,New species added in 2022 NS1,No match/missing,4096.664,TRUE
+MOB,,Scolopsis xenochroa,#N/A,New species added in 2022 NS1,No match/missing,0.2,TRUE
+MOJ,,Gerres erythrourus,#N/A,New species added in 2022 NS1,No match/missing,10033.967,TRUE
+MOO,,Mene maculata,MOO,New species added in 2022 NS1,Match,420.466,FALSE
+MUV,,Mulloidichthys flavolineatus,MUV,New species added in 2022 NS1,Match,52.31,FALSE
+MYN,,Hemibagrus nemurus,MYN,New species added in 2022 NS1,Match,3550.39282,FALSE
+,,Acanthocepola krusensternii,#N/A,New species added in 2022 NS1,No match/missing,100.354,TRUE
+,,Amphidromus javanicus,#N/A,New species added in 2022 NS1,No match/missing,2657.877,TRUE
+,,Apogonichthyoides melas,#N/A,New species added in 2022 NS1,No match/missing,108.772,TRUE
+,,Atherinomorus duodecimalis,#N/A,New species added in 2022 NS1,No match/missing,302.9,TRUE
+,,Branchiostegus sawakinensis,#N/A,New species added in 2022 NS1,No match/missing,2.82,TRUE
+,,Cambarellus patzcuarensis,#N/A,New species added in 2022 NS1,No match/missing,25.26,TRUE
+,,Cassiopea medusa,#N/A,New species added in 2022 NS1,No match/missing,23.99,TRUE
+,,Cetoscarus ocellatus,#N/A,New species added in 2022 NS1,No match/missing,290.758,TRUE
+,,Cheilopogon arcticeps,#N/A,New species added in 2022 NS1,No match/missing,6187.484,TRUE
+,,Chephalopholis boenack,#N/A,New species added in 2022 NS1,No match/missing,55365.17782,TRUE
+,,Chlorurus microrhinos,#N/A,New species added in 2022 NS1,No match/missing,393.696,TRUE
+,,Corbula faba,#N/A,New species added in 2022 NS1,No match/missing,2463.8,TRUE
+,,Equulites laterofenestra,#N/A,New species added in 2022 NS1,No match/missing,11475.43,TRUE
+,,Eubleekeria splendens,#N/A,New species added in 2022 NS1,No match/missing,43.434,TRUE
+,,Euristhmus microceps,#N/A,New species added in 2022 NS1,No match/missing,1049.815,TRUE
+,,Fenneropenaeus indicus,#N/A,New species added in 2022 NS1,No match/missing,72.084,TRUE
+,,Helotes sexlineatus,#N/A,New species added in 2022 NS1,No match/missing,4763.836394,TRUE
+,,Heniochus singularius,#N/A,New species added in 2022 NS1,No match/missing,154.079,TRUE
+,,Herklotsichthys quadrimaculatus,#N/A,New species added in 2022 NS1,No match/missing,297.851,TRUE
+,,Herklotsichthys dispilonotus,#N/A,New species added in 2022 NS1,No match/missing,7216.453,TRUE
+,,Liopropoma randalli,#N/A,New species added in 2022 NS1,No match/missing,15563.15683,TRUE
+,,Megokris granulosus,#N/A,New species added in 2022 NS1,No match/missing,20064.83,TRUE
+,,Moemkhausia pitteri,#N/A,New species added in 2022 NS1,No match/missing,16.105,TRUE
+,,Paracaesio brevidentata,#N/A,New species added in 2022 NS1,No match/missing,29031.01413,TRUE
+,,Parascolopsis inermis,#N/A,New species added in 2022 NS1,No match/missing,8.431,TRUE
+,,Parribacus antarchicus,#N/A,New species added in 2022 NS1,No match/missing,240.126,TRUE
+,,Pinjalo lewisi,#N/A,New species added in 2022 NS1,No match/missing,1732.685,TRUE
+,,Plectranthias retrofasciatus,#N/A,New species added in 2022 NS1,No match/missing,12511.333,TRUE
+,,Prionurus chrysurus,#N/A,New species added in 2022 NS1,No match/missing,8730.131,TRUE
+,,Rhinecanthus rectangulus,#N/A,New species added in 2022 NS1,No match/missing,48.894,TRUE
+,,Rhinecanthus verrucosus,#N/A,New species added in 2022 NS1,No match/missing,25,TRUE
+,,Sacura parva,#N/A,New species added in 2022 NS1,No match/missing,501.9,TRUE
+,,Symphysanodon katayamai,#N/A,New species added in 2022 NS1,No match/missing,45931.33336,TRUE
+,,Trapezia rufopunctata,#N/A,New species added in 2022 NS1,No match/missing,183.082,TRUE
+,,Trygon sephen,#N/A,New species added in 2022 NS1,No match/missing,1462.211,TRUE
+NAP,,Parapenaeopsis sculptilis,NAP,New species added in 2022 NS1,Match,828.474,FALSE
+NBH,,Naso annulatus,NBH,New species added in 2022 NS1,Match,0.338008951,FALSE
+NDK,,Nibea soldado,NDK,New species added in 2022 NS1,Match,2213.678,FALSE
+NDQ,,Anadara antiquata,NDQ,New species added in 2022 NS1,Match,1499.684,FALSE
+NIT,,Parapenaeopsis tenella,NIT,New species added in 2022 NS1,Match,399.188,FALSE
+NMR,,Nemanthias carberryi,NMR,New species added in 2022 NS1,Match,271,FALSE
+NPC,,Pentapodus caninus,NPC,New species added in 2022 NS1,Match,925.082,FALSE
+NPN,,Parapenaeopsis cornuta,NPN,New species added in 2022 NS1,Match,636.2,FALSE
+NPY,,Pentapodus emeryii,NPY,New species added in 2022 NS1,Match,669.704,FALSE
+NQX,,Pentapodus setosus,#N/A,New species added in 2022 NS1,No match/missing,24670.637,TRUE
+NSC,,Scolopsis bilineata,NSC,New species added in 2022 NS1,Match,1930.66,FALSE
+OAO,,Solea ovata,OAO,New species added in 2022 NS1,Match,32.264,FALSE
+ODV,,Podophthalmus vigil,ODV,New species added in 2022 NS1,Match,2406.862,FALSE
+OFW,,Choerodon anchorago,#N/A,New species added in 2022 NS1,No match/missing,102.291,TRUE
+ONI,,Odonus niger,ONI,New species added in 2022 NS1,Match,136.39,FALSE
+OPI,,Pisodonophis cancrivorus,OPI,New species added in 2022 NS1,Match,0.195,FALSE
+ORB,,Chiloscyllium punctatum,ORB,New species added in 2022 NS1,Match,35.406,FALSE
+ORH,,Chiloscyllium plagiosum,ORH,New species added in 2022 NS1,Match,3.933,FALSE
+ORT,,Orectolobus maculatus,ORT,New species added in 2022 NS1,Match,9.185,FALSE
+OSF,,Stegostoma fasciatum,#N/A,New species added in 2022 NS1,No match/missing,0.832,TRUE
+OTI,,Protonibea diacanthus,OTI,New species added in 2022 NS1,Match,9513.393,FALSE
+PFV,,Plectorhinchus flavomaculatus,PFV,New species added in 2022 NS1,Match,0.041,FALSE
+PHT,,Opisthopterus tardoore,PHT,New species added in 2022 NS1,Match,301.83,FALSE
+PIE,,Ilisha melastoma,PIE,New species added in 2022 NS1,Match,425.916,FALSE
+PII,,Plotosus lineatus,PII,New species added in 2022 NS1,Match,3440.654,FALSE
+PJL,,Pentaprion longimanus,PJL,New species added in 2022 NS1,Match,1511.921686,FALSE
+PJP,,Pinjalo pinjalo,PJP,New species added in 2022 NS1,Match,3181.566506,FALSE
+PLM,,Plectropomus maculatus,PLM,New species added in 2022 NS1,Match,38.649,FALSE
+PLS,,Pteroplatytrygon violacea,PLS,New species added in 2022 NS1,Match,78.29,FALSE
+PNJ,,Penaeus marginatus,PNJ,New species added in 2022 NS1,Match,170.06,FALSE
+PNV,,Penaeus vannamei,PNV,New species added in 2022 NS1,Match,9631.249586,FALSE
+POO,,Trachinotus blochii,POO,New species added in 2022 NS1,Match,457.965,FALSE
+PQD,,Pelates quadrilineatus,PQD,New species added in 2022 NS1,Match,30.836,FALSE
+PRF,,Macrobrachium rosenbergii,PRF,New species added in 2022 NS1,Match,318.4826947,FALSE
+PRP,,Promethichthys prometheus,PRP,New species added in 2022 NS1,Match,422.5233397,FALSE
+PUN,,Plotosus canius,PUN,New species added in 2022 NS1,Match,11580.914,FALSE
+PWG,,Psammoperca waigiensis,PWG,New species added in 2022 NS1,Match,98.212,FALSE
+QEX,,Potamotrygon menchacai,#N/A,New species added in 2022 NS1,No match/missing,109.9,TRUE
+QRS,,Filimanus perplexa,QRS,New species added in 2022 NS1,Match,246.47,FALSE
+QRW,,Filimanus xanthonema,QRW,New species added in 2022 NS1,Match,0.024,FALSE
+QSQ,,Polydactylus microstomus,QSQ,New species added in 2022 NS1,Match,9097.651,FALSE
+RAF,,Rastrelliger faughni,RAF,New species added in 2022 NS1,Match,182494.4428,FALSE
+RCD,,Rhynchobatus djiddensis,RCD,New species added in 2022 NS1,Match,4595.956,FALSE
+RCI,,Paracirrhites forsteri,RCI,New species added in 2022 NS1,Match,143.815,FALSE
+RDF,,Hemitrygon fluviorum,RDF,New species added in 2022 NS1,Match,645.229,FALSE
+RDK,,Neotrygon kuhlii,RDK,New species added in 2022 NS1,Match,15089.22967,FALSE
+REZ,,Remora osteochir,REZ,New species added in 2022 NS1,Match,0.012,FALSE
+RFP,,Parupeneus barberinus,RFP,New species added in 2022 NS1,Match,14223.65631,FALSE
+RFQ,,Parupeneus indicus,RFQ,New species added in 2022 NS1,Match,12896.66671,FALSE
+RGI,,Gymnura micrura,RGI,New species added in 2022 NS1,Match,9531.948,FALSE
+RHA,,Rhizoprionodon acutus,RHA,New species added in 2022 NS1,Match,571.018,FALSE
+RNJ,,Anampses geographicus,NAF,New species added in 2022 NS1,No match/missing,321.4,TRUE
+RPX,,Parupeneus cinnabarius,#N/A,New species added in 2022 NS1,No match/missing,343.5872692,TRUE
+RPY,,Parupeneus cyclostomus,RPY,New species added in 2022 NS1,Match,30166.22875,FALSE
+RQF,,Parupeneus heptacanthus,RQF,New species added in 2022 NS1,Match,1011.361,FALSE
+RRY,,Rhina ancylostoma,#N/A,New species added in 2022 NS1,No match/missing,181.182,TRUE
+RTY,,Taeniura lymma,RTY,New species added in 2022 NS1,Match,236.905,FALSE
+SGY,,Strongylura strongylura,SGY,New species added in 2022 NS1,Match,4745.901756,FALSE
+SJE,,Symphorus nematophorus,SJE,New species added in 2022 NS1,Match,0.2,FALSE
+SNY,,Ocyurus chrysurus,SNY,New species added in 2022 NS1,Match,46.953,FALSE
+SPS,,Drepane punctata,SPS,New species added in 2022 NS1,Match,542.581,FALSE
+SSP,,Tetrapturus angustirostris,SSP,New species added in 2022 NS1,Match,803.819,FALSE
+STL,,Encrasicholina punctifer,STL,New species added in 2022 NS1,Match,22866.183,FALSE
+SYQ,,Strongylura leiura,SYQ,New species added in 2022 NS1,Match,246.8,FALSE
+SYW,,Synodus variegatus,SYW,New species added in 2022 NS1,Match,2224.316,FALSE
+TBA,,Trachinotus baillonii,TBA,New species added in 2022 NS1,Match,0.07,FALSE
+TEC,,Pterocaesio chrysozona,TEC,New species added in 2022 NS1,Match,1068.788229,FALSE
+TED,,Pterocaesio digramma,TED,New species added in 2022 NS1,Match,0.019,FALSE
+TFG,,Scatophagus argus,TFG,New species added in 2022 NS1,Match,133.326,FALSE
+THL,,Hemitriakis leucoperiptera,THL,New species added in 2022 NS1,Match,478.581,FALSE
+THQ,,Thenus orientalis,THQ,New species added in 2022 NS1,Match,22.947,FALSE
+TIG,,Galeocerdo cuvier,TIG,New species added in 2022 NS1,Match,504.903,FALSE
+TIP,,Penaeus semisulcatus,TIP,New species added in 2022 NS1,Match,297.989,FALSE
+TLM,,Oreochromis mossambicus,TLM,New species added in 2022 NS1,Match,0.1,FALSE
+TNF,,Trachinotus falcatus,TNF,New species added in 2022 NS1,Match,40.631,FALSE
+TUM,,Atule mate,TUM,New species added in 2022 NS1,Match,34905.33341,FALSE
+TXE,,Telescopium telescopium,TXE,New species added in 2022 NS1,Match,72.735,FALSE
+UBP,,Cubiceps capensis,UBP,New species added in 2022 NS1,Match,370.408,FALSE
+UBV,,Pseudobalistes flavimarginatus,UBV,New species added in 2022 NS1,Match,0.31,FALSE
+UHA,,Pseudorhombus arsius,UHA,New species added in 2022 NS1,Match,2184.619764,FALSE
+UHG,,Pseudorhombus malayanus,UHG,New species added in 2022 NS1,Match,1488.462,FALSE
+UHJ,,Pseudorhombus javanicus,UHJ,New species added in 2022 NS1,Match,349.047,FALSE
+UKX,,Pseudorhombus diplospilus,#N/A,New species added in 2022 NS1,No match/missing,51.45047849,TRUE
+ULE,,Ulua mentalis,ULE,New species added in 2022 NS1,Match,36.39232128,FALSE
+ULG,,Calotomus carolinus,ULG,New species added in 2022 NS1,Match,371.214,FALSE
+UMP,,Amusium pleuronectes,UMP,New species added in 2022 NS1,Match,1192.396,FALSE
+URS,,Echinus esculentus,URS,New species added in 2022 NS1,Match,468.069,FALSE
+USF,,Scarus forsteni,USF,New species added in 2022 NS1,Match,309.735,FALSE
+USY,,Scarus ghobban,USY,New species added in 2022 NS1,Match,3600.048,FALSE
+USZ,,Scarus frenatus,USZ,New species added in 2022 NS1,Match,2201.721513,FALSE
+UTI,,Secutor insidiator,UTI,New species added in 2022 NS1,Match,85.25,FALSE
+UUS,,Chlorurus sordidus,UUS,New species added in 2022 NS1,Match,13.59,FALSE
+UVD,,Scarus psittacus,UVD,New species added in 2022 NS1,Match,2022.005418,FALSE
+VRA,,Variola albimarginata,VRA,New species added in 2022 NS1,Match,406.405,FALSE
+VRL,,Variola louti,VRL,New species added in 2022 NS1,Match,80.697,FALSE
+WAH,,Acanthocybium solandri,WAH,New species added in 2022 NS1,Match,153.485,FALSE
+WBM,,Brotula multibarbata,WBM,New species added in 2022 NS1,Match,0.062,FALSE
+WKP,,Penaeus latisulcatus,WKP,New species added in 2022 NS1,Match,202.754,FALSE
+YAT,,Scylla tranquebarica,YAT,New species added in 2022 NS1,Match,17,FALSE
+YBS,,Sphyraena forsteri,YBS,New species added in 2022 NS1,Match,4403.836,FALSE
+YED,,Nibea albiflora,YED,New species added in 2022 NS1,Match,13.3,FALSE
+YEO,,Atypopenaeus formosus,YEO,New species added in 2022 NS1,Match,245.451,FALSE
+YLU,,Scylaroies squamosus,#N/A,New species added in 2022 NS1,No match/missing,1671.187706,TRUE
+YLW,,Scylla olivacea,YLW,New species added in 2022 NS1,Match,3447.175,FALSE
+YME,,Polymesoda erosa,YME,New species added in 2022 NS1,Match,116.085,FALSE
+YOB,,Cynoglossus bilineatus,YOB,New species added in 2022 NS1,Match,84.606,FALSE
+YOG,,Cynoglossus lingua,YOG,New species added in 2022 NS1,Match,78.462,FALSE
+YOP,,Cynoglossus puncticeps,YOP,New species added in 2022 NS1,Match,90.419,FALSE
+YOR,,Cynoglossus arel,YOR,New species added in 2022 NS1,Match,384.906,FALSE
+YPX,,Cypselurus angusticeps,#N/A,New species added in 2022 NS1,No match/missing,615.6359327,TRUE
+YPX,,Cypselurus opisthopus,#N/A,New species added in 2022 NS1,No match/missing,5084.826655,TRUE
+YRB,,Sphyraena obtusata,YRB,New species added in 2022 NS1,Match,1420.812522,FALSE
+YRN,,Sphyraena pinguis,YRN,New species added in 2022 NS1,Match,112.303,FALSE
